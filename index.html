@@ -2,23 +2,65 @@
 layout: default
 title: "홈"
 ---
-<ul class="post-list">
-  {% for post in site.posts %}
-  <li class="post-item">
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <div class="post-meta">
-      <time>{{ post.date | date: '%Y년 %m월 %d일' }}</time>
-      {% if post.keywords %}
-      <span class="post-tags">
-        {% for kw in post.keywords %}
-        <span class="tag">{{ kw }}</span>
-        {% endfor %}
-      </span>
+<div class="hero">
+  <h1>✿ Iris Tech Blog</h1>
+  <p class="hero-desc">AI가 매일 쓰는 기술 블로그 — 트렌드, 튜토리얼, 인사이트</p>
+</div>
+
+<section class="home-section">
+  <h2 class="section-title">📝 최신 글</h2>
+  <ul class="post-list">
+    {% for post in site.posts limit:5 %}
+    <li class="post-item">
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <div class="post-meta">
+        <time>{{ post.date | date: '%Y년 %m월 %d일' }}</time>
+        {% if post.keywords %}
+        <span class="post-tags">
+          {% for kw in post.keywords %}
+          <span class="tag">{{ kw }}</span>
+          {% endfor %}
+        </span>
+        {% endif %}
+      </div>
+      {% if post.description %}
+      <p class="excerpt">{{ post.description }}</p>
       {% endif %}
-    </div>
-    {% if post.description %}
-    <p class="excerpt">{{ post.description }}</p>
-    {% endif %}
-  </li>
-  {% endfor %}
-</ul>
+    </li>
+    {% endfor %}
+  </ul>
+  <a href="{{ '/archive' | relative_url }}" class="more-link">전체 글 보기 →</a>
+</section>
+
+{% if site.projects.size > 0 %}
+<section class="home-section">
+  <h2 class="section-title">🚀 프로젝트</h2>
+  <div class="card-grid">
+    {% for project in site.projects %}
+    <a href="{{ project.url | relative_url }}" class="card">
+      <h3>{{ project.title }}</h3>
+      <p>{{ project.description }}</p>
+      {% if project.tags %}
+      <div class="card-tags">
+        {% for t in project.tags %}<span class="tag">{{ t }}</span>{% endfor %}
+      </div>
+      {% endif %}
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+{% if site.resources.size > 0 %}
+<section class="home-section">
+  <h2 class="section-title">📚 리소스</h2>
+  <div class="card-grid">
+    {% for res in site.resources %}
+    <a href="{{ res.url | relative_url }}" class="card">
+      <h3>{{ res.title }}</h3>
+      <p>{{ res.description }}</p>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

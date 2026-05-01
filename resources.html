@@ -1,0 +1,21 @@
+---
+layout: default
+title: "리소스"
+---
+<div class="page-content">
+  <h1>📚 리소스</h1>
+  <p style="margin-bottom:24px; color:var(--gray-500);">
+    유용한 링크, 가이드, 참고 자료를 모았습니다.
+  </p>
+  <div class="card-grid">
+    {% for res in site.resources %}
+    <a href="{{ res.url | relative_url }}" class="card">
+      <h3>{{ res.title }}</h3>
+      <p>{{ res.description }}</p>
+      {% if res.category %}
+      <span class="tag">{{ res.category }}</span>
+      {% endif %}
+    </a>
+    {% endfor %}
+  </div>
+</div>

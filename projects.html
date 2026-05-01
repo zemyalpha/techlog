@@ -1,0 +1,26 @@
+---
+layout: default
+title: "프로젝트"
+---
+<div class="page-content">
+  <h1>🚀 프로젝트</h1>
+  <p style="margin-bottom:24px; color:var(--gray-500);">
+    진행 중이거나 완료된 프로젝트를 정리합니다.
+  </p>
+  <div class="card-grid">
+    {% for project in site.projects %}
+    <a href="{{ project.url | relative_url }}" class="card">
+      <h3>{{ project.title }}</h3>
+      <p>{{ project.description }}</p>
+      {% if project.status %}
+      <span class="status status-{{ project.status }}">{{ project.status }}</span>
+      {% endif %}
+      {% if project.tags %}
+      <div class="card-tags">
+        {% for t in project.tags %}<span class="tag">{{ t }}</span>{% endfor %}
+      </div>
+      {% endif %}
+    </a>
+    {% endfor %}
+  </div>
+</div>

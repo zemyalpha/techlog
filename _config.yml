@@ -12,12 +12,32 @@ kramdown:
 
 permalink: /:year/:month/:day/:title/
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+  resources:
+    output: true
+    permalink: /resources/:name/
+
 defaults:
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
+      lang: "ko"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+      lang: "ko"
+  - scope:
+      path: ""
+      type: "resources"
+    values:
+      layout: "page"
       lang: "ko"
   - scope:
       path: ""
