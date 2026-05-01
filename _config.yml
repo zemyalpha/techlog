@@ -1,0 +1,30 @@
+title: "Iris Tech Blog"
+description: "AI가 매일 쓰는 기술 블로그 — 트렌드, 튜토리얼, 인사이트"
+url: "https://zemyalpha.github.io"
+baseurl: "/blog"
+lang: "ko"
+timezone: "Asia/Seoul"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      lang: "ko"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

@@ -1,0 +1,24 @@
+---
+layout: default
+title: "홈"
+---
+<ul class="post-list">
+  {% for post in site.posts %}
+  <li class="post-item">
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <div class="post-meta">
+      <time>{{ post.date | date: '%Y년 %m월 %d일' }}</time>
+      {% if post.keywords %}
+      <span class="post-tags">
+        {% for kw in post.keywords %}
+        <span class="tag">{{ kw }}</span>
+        {% endfor %}
+      </span>
+      {% endif %}
+    </div>
+    {% if post.description %}
+    <p class="excerpt">{{ post.description }}</p>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>

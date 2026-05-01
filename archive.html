@@ -1,0 +1,17 @@
+---
+layout: default
+title: "아카이브"
+---
+<div class="page-content">
+  <h1>아카이브</h1>
+  {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+  {% for year in postsByYear %}
+    <h2 class="archive-year">{{ year.name }}</h2>
+    {% for post in year.items %}
+    <div class="archive-item">
+      <time>{{ post.date | date: '%m월 %d일' }}</time>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </div>
+    {% endfor %}
+  {% endfor %}
+</div>
