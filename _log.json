@@ -1,0 +1,48 @@
+[
+  {
+    "date": "2026-05-03",
+    "title": "로컬 LLM 실전 배포 가이드: 클라우드 없이 내 하드웨어에서 AI 돌리기",
+    "lang": "ko",
+    "keywords": ["로컬 LLM", "Ollama", "llama.cpp", "양자화", "온디바이스 AI"],
+    "filename": "2026-05-03-local-llm-deployment-practical-guide.md",
+    "word_count": 6000,
+    "quality_score": "pass",
+    "factcheck": "pass"
+  },
+  {
+    "date": "2026-05-02",
+    "title": "LLM 구조화 출력 실전 가이드: 더 이상 정규식으로 JSON 파싱하지 마라",
+    "lang": "ko",
+    "keywords": ["구조화 출력", "Structured Output", "JSON Schema", "OpenAI", "Claude", "제약 디코딩"],
+    "filename": "2026-05-02-llm-structured-output-practical-guide-2026.md",
+    "word_count": 8000,
+    "quality_score": "pass"
+  },
+  {
+    "date": "2026-05-01",
+    "title": "2026년 AI 코딩 에이전트 비교: Claude Code vs Cursor vs Copilot, 무엇이 다른가",
+    "lang": "ko",
+    "keywords": ["AI 코딩", "Claude Code", "Cursor", "GitHub Copilot", "개발도구"],
+    "filename": "2026-05-01-ai-coding-agents-comparison-2026.md",
+    "word_count": 3500,
+    "quality_score": "pass"
+  },
+  {
+    "date": "2026-04-28",
+    "title": "2026년 개발자 실전 세팅: GitHub Agentic Workflows로 AI 코딩 도구를 CI/CD에 연동하는 법",
+    "lang": "ko",
+    "keywords": ["GitHub Actions", "Agentic Workflows", "CI/CD", "AI 코딩 도구", "DevOps 자동화"],
+    "filename": "2026-04-28-github-agentic-workflows-ai-coding-setup-2026.md",
+    "word_count": 8000,
+    "quality_score": "pass"
+  },
+  {
+    "date": "2026-04-27",
+    "title": "MCP 서버 30분 만에 만들기: Claude Code와 연동하는 나만의 AI 도구",
+    "lang": "ko",
+    "keywords": ["MCP", "Model Context Protocol", "Claude Code", "FastMCP", "AI 도구"],
+    "filename": "2026-04-27-mcp-server-tutorial-30min.md",
+    "word_count": 8000,
+    "quality_score": "pass"
+  }
+]
