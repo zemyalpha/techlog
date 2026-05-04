@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-05-04",
+    "title": "2026년 오픈소스 LLM 선택 가이드: 코딩·추론·자가호스팅 용도별 비교",
+    "lang": "ko",
+    "keywords": ["오픈소스 LLM", "DeepSeek V4", "Llama 4", "Qwen 3.5", "Gemma 4", "GLM-5.1"],
+    "filename": "2026-05-04-opensource-llm-comparison-guide-2026.md",
+    "word_count": 8000,
+    "quality_score": "pass",
+    "factcheck": "pass"
+  },
+  {
     "date": "2026-05-03",
     "title": "로컬 LLM 실전 배포 가이드: 클라우드 없이 내 하드웨어에서 AI 돌리기",
     "lang": "ko",
