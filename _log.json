@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-05-05",
+    "title": "브라우저에서 AI 모델 직접 돌리기: WebAssembly + WebGPU 실전 가이드",
+    "lang": "ko",
+    "keywords": ["WebAssembly", "WebGPU", "브라우저 AI", "Transformers.js", "ONNX Runtime Web", "WebLLM"],
+    "filename": "2026-05-05-webassembly-webgpu-browser-ai-inference.md",
+    "word_count": 6500,
+    "quality_score": "pass",
+    "factcheck": "pass"
+  },
+  {
     "date": "2026-05-04",
     "title": "2026년 오픈소스 LLM 선택 가이드: 코딩·추론·자가호스팅 용도별 비교",
     "lang": "ko",
