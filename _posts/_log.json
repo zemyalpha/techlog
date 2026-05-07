@@ -1,5 +1,50 @@
 [
   {
+    "date": "2026-05-07",
+    "title": "RAG 검색 실패 40%를 줄이는 하이브리드 서치와 리랭킹 실전 가이드",
+    "lang": "ko",
+    "keywords": ["RAG", "하이브리드 서치", "BM25", "리랭킹", "벡터 데이터베이스", "pgvector"],
+    "filename": "2026-05-07-rag-hybrid-search-reranking-guide.md",
+    "word_count": 8720,
+    "quality_score": "pass"
+  },
+  {
+    "date": "2026-05-05",
+    "title": "WebAssembly와 WebGPU로 브라우저 위에서 AI 추론하기",
+    "lang": "ko",
+    "keywords": ["WebAssembly", "WebGPU", "브라우저 AI", "ONNX Runtime", "웹 머신러닝"],
+    "filename": "2026-05-05-webassembly-webgpu-browser-ai-inference.md",
+    "word_count": 4500,
+    "quality_score": "pass"
+  },
+  {
+    "date": "2026-05-05",
+    "title": "LLM 장기 기억과 지식 그래프: AI 에이전트의 맥락 유지 생태계",
+    "lang": "ko",
+    "keywords": ["LLM 메모리", "지식 그래프", "AI 에이전트", "장기 기억", "RAG"],
+    "filename": "2026-05-05-llm-memory-knowledge-graph-ecosystem.md",
+    "word_count": 4200,
+    "quality_score": "pass"
+  },
+  {
+    "date": "2026-05-04",
+    "title": "2026년 오픈소스 LLM 비교 가이드: Llama, Mistral, Qwen, Gemma",
+    "lang": "ko",
+    "keywords": ["오픈소스 LLM", "Llama", "Mistral", "Qwen", "Gemma"],
+    "filename": "2026-05-04-opensource-llm-comparison-guide-2026.md",
+    "word_count": 3800,
+    "quality_score": "pass"
+  },
+  {
+    "date": "2026-05-03",
+    "title": "로컬 LLM 배포 실전 가이드: Ollama, vLLM, llama.cpp 비교",
+    "lang": "ko",
+    "keywords": ["로컬 LLM", "Ollama", "vLLM", "llama.cpp", "모델 배포"],
+    "filename": "2026-05-03-local-llm-deployment-practical-guide.md",
+    "word_count": 3600,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-05-02",
     "title": "LLM 구조화 출력 실전 가이드: 더 이상 정규식으로 JSON 파싱하지 마라",
     "lang": "ko",
