@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-05-10",
+    "title": "프롬프트 엔지니어링은 끝났다 — 컨텍스트 엔지니어링이 AI 에이전트의 새로운 패러다임이다",
+    "lang": "ko",
+    "keywords": ["컨텍스트 엔지니어링", "AI 에이전트", "프롬프트 엔지니어링", "LLM", "context management"],
+    "filename": "2026-05-10-context-engineering-beyond-prompt-engineering.md",
+    "word_count": 12639,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-05-07",
     "title": "RAG 검색 실패 40%를 줄이는 하이브리드 서치와 리랭킹 실전 가이드",
     "lang": "ko",
