@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "date": "2026-05-26",
+    "title": "MCP는 도구, A2A는 협업: 에이전트 아키텍처를 나누는 법",
+    "lang": "ko",
+    "keywords": ["MCP", "A2A", "Background mode", "에이전트 아키텍처", "LLM 워크플로우"],
+    "filename": "2026-05-26-mcp-a2a-background-mode-agent-architecture.md",
+    "word_count": 3912,
+    "quality_score": "pass"
+  }
+]
