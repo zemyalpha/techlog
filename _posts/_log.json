@@ -215,4 +215,13 @@
     "word_count": 8644,
     "quality_score": "pass"
   }
+  ,{
+    "date": "2026-05-28",
+    "title": "GitHub Agentic Workflows와 Anthropic 리포트로 본 2026 코딩 팀 운영법",
+    "lang": "ko",
+    "keywords": ["GitHub Agentic Workflows", "Anthropic", "agentic coding", "GitHub Actions", "코딩 에이전트"],
+    "filename": "2026-05-28-github-agentic-workflows-anthropic-coding-team.md",
+    "word_count": 3715,
+    "quality_score": "pass"
+  }
 ]
