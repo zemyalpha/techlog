@@ -16,5 +16,14 @@
     "filename": "2026-05-28-github-agentic-workflows-anthropic-coding-team.md",
     "word_count": 3715,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-05-29",
+    "title": "GitHub Agentic Workflows를 안전하게 쓰는 법: MCP 서버와 read-only 가드레일",
+    "lang": "ko",
+    "keywords": ["GitHub Actions", "MCP", "AI 에이전트", "코드리뷰", "CI"],
+    "filename": "2026-05-29-github-agentic-workflows-mcp-readonly-guardrail.md",
+    "word_count": 605,
+    "quality_score": "pass"
   }
 ]
