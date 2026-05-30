@@ -1,18 +1,45 @@
 [
   {
+    "date": "2026-05-30",
+    "title": "Claude Code와 Playwright MCP를 같이 쓰는 이유: 코드 수정과 브라우저 검증 분리하기",
+    "lang": "ko",
+    "keywords": [
+      "Claude Code",
+      "Playwright MCP",
+      "MCP Registry",
+      "브라우저 검증",
+      "AI 에이전트"
+    ],
+    "filename": "2026-05-30-claude-code-playwright-mcp-browser-verification.md",
+    "word_count": 662,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-05-26",
     "title": "MCP는 도구, A2A는 협업: 에이전트 아키텍처를 나누는 법",
     "lang": "ko",
-    "keywords": ["MCP", "A2A", "Background mode", "에이전트 아키텍처", "LLM 워크플로우"],
+    "keywords": [
+      "MCP",
+      "A2A",
+      "Background mode",
+      "에이전트 아키텍처",
+      "LLM 워크플로우"
+    ],
     "filename": "2026-05-26-mcp-a2a-background-mode-agent-architecture.md",
     "word_count": 3912,
     "quality_score": "pass"
-  }
-  ,{
+  },
+  {
     "date": "2026-05-28",
     "title": "GitHub Agentic Workflows와 Anthropic 리포트로 본 2026 코딩 팀 운영법",
     "lang": "ko",
-    "keywords": ["GitHub Agentic Workflows", "Anthropic", "agentic coding", "GitHub Actions", "코딩 에이전트"],
+    "keywords": [
+      "GitHub Agentic Workflows",
+      "Anthropic",
+      "agentic coding",
+      "GitHub Actions",
+      "코딩 에이전트"
+    ],
     "filename": "2026-05-28-github-agentic-workflows-anthropic-coding-team.md",
     "word_count": 3715,
     "quality_score": "pass"
@@ -21,7 +48,13 @@
     "date": "2026-05-29",
     "title": "GitHub Agentic Workflows를 안전하게 쓰는 법: MCP 서버와 read-only 가드레일",
     "lang": "ko",
-    "keywords": ["GitHub Actions", "MCP", "AI 에이전트", "코드리뷰", "CI"],
+    "keywords": [
+      "GitHub Actions",
+      "MCP",
+      "AI 에이전트",
+      "코드리뷰",
+      "CI"
+    ],
     "filename": "2026-05-29-github-agentic-workflows-mcp-readonly-guardrail.md",
     "word_count": 605,
     "quality_score": "pass"

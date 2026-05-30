@@ -1,9 +1,30 @@
 [
   {
+    "date": "2026-05-30",
+    "title": "Claude Code와 Playwright MCP를 같이 쓰는 이유: 코드 수정과 브라우저 검증 분리하기",
+    "lang": "ko",
+    "keywords": [
+      "Claude Code",
+      "Playwright MCP",
+      "MCP Registry",
+      "브라우저 검증",
+      "AI 에이전트"
+    ],
+    "filename": "2026-05-30-claude-code-playwright-mcp-browser-verification.md",
+    "word_count": 662,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-05-26",
     "title": "MCP는 도구, A2A는 협업: 에이전트 아키텍처를 나누는 법",
     "lang": "ko",
-    "keywords": ["MCP", "A2A", "Background mode", "에이전트 아키텍처", "LLM 워크플로우"],
+    "keywords": [
+      "MCP",
+      "A2A",
+      "Background mode",
+      "에이전트 아키텍처",
+      "LLM 워크플로우"
+    ],
     "filename": "2026-05-26-mcp-a2a-background-mode-agent-architecture.md",
     "word_count": 3912,
     "quality_score": "pass"
@@ -12,7 +33,13 @@
     "date": "2026-05-10",
     "title": "프롬프트 엔지니어링은 끝났다 — 컨텍스트 엔지니어링이 AI 에이전트의 새로운 패러다임이다",
     "lang": "ko",
-    "keywords": ["컨텍스트 엔지니어링", "AI 에이전트", "프롬프트 엔지니어링", "LLM", "context management"],
+    "keywords": [
+      "컨텍스트 엔지니어링",
+      "AI 에이전트",
+      "프롬프트 엔지니어링",
+      "LLM",
+      "context management"
+    ],
     "filename": "2026-05-10-context-engineering-beyond-prompt-engineering.md",
     "word_count": 12639,
     "quality_score": "pass"
@@ -174,7 +201,12 @@
     "date": "2026-05-16",
     "title": "2026년 AI 트렌드 분석: H200/B200 GPU, 음성 클로닝, LLM 벤치마크",
     "lang": "ko",
-    "keywords": ["AI 트렌드", "GPU", "음성 클로닝", "LLM 벤치마크"],
+    "keywords": [
+      "AI 트렌드",
+      "GPU",
+      "음성 클로닝",
+      "LLM 벤치마크"
+    ],
     "filename": "2026-05-16-ai-trends-analysis-h200-b200-voice-cloning-llm-benchmarks.md",
     "word_count": 9897,
     "quality_score": "pass"
@@ -183,7 +215,12 @@
     "date": "2026-05-17",
     "title": "AI 에이전트 메모리 관리와 SWE-bench 코드 리뷰 벤치마크 실전 분석",
     "lang": "ko",
-    "keywords": ["AI 에이전트", "메모리 관리", "SWE-bench", "코드 리뷰"],
+    "keywords": [
+      "AI 에이전트",
+      "메모리 관리",
+      "SWE-bench",
+      "코드 리뷰"
+    ],
     "filename": "2026-05-17-ai-agent-memory-swe-bench.md",
     "word_count": 8639,
     "quality_score": "pass"
@@ -192,7 +229,13 @@
     "date": "2026-05-18",
     "title": "Python 코드에서 자주 발생하는 보안 취약점과 실전 대응 전략",
     "lang": "ko",
-    "keywords": ["Python", "보안", "취약점", "SQL 인젝션", "CSRF"],
+    "keywords": [
+      "Python",
+      "보안",
+      "취약점",
+      "SQL 인젝션",
+      "CSRF"
+    ],
     "filename": "2026-05-18-python-security.md",
     "word_count": 6829,
     "quality_score": "pass"
@@ -201,7 +244,14 @@
     "date": "2026-05-19",
     "title": "2026년 프롬프트 인젝션 방어 실전 가이드 — 8가지 기법 비교와 레이어드 아키텍처",
     "lang": "ko",
-    "keywords": ["프롬프트 인젝션", "LLM 보안", "AI 에이전트 보안", "PromptGuard", "PromptArmor", "OWASP LLM Top 10"],
+    "keywords": [
+      "프롬프트 인젝션",
+      "LLM 보안",
+      "AI 에이전트 보안",
+      "PromptGuard",
+      "PromptArmor",
+      "OWASP LLM Top 10"
+    ],
     "filename": "2026-05-19-prompt-injection-defense-guide.md",
     "word_count": 10248,
     "quality_score": "pass"
@@ -210,16 +260,31 @@
     "date": "2026-05-20",
     "title": "벡터 데이터베이스 선택 가이드 2026 — Pinecone vs Weaviate vs Qdrant vs Milvus 실전 비교",
     "lang": "ko",
-    "keywords": ["벡터 데이터베이스", "Pinecone", "Weaviate", "Qdrant", "Milvus", "임베딩 검색", "HNSW", "RAG"],
+    "keywords": [
+      "벡터 데이터베이스",
+      "Pinecone",
+      "Weaviate",
+      "Qdrant",
+      "Milvus",
+      "임베딩 검색",
+      "HNSW",
+      "RAG"
+    ],
     "filename": "2026-05-20-vector-database-comparison-guide.md",
     "word_count": 8644,
     "quality_score": "pass"
-  }
-  ,{
+  },
+  {
     "date": "2026-05-28",
     "title": "GitHub Agentic Workflows와 Anthropic 리포트로 본 2026 코딩 팀 운영법",
     "lang": "ko",
-    "keywords": ["GitHub Agentic Workflows", "Anthropic", "agentic coding", "GitHub Actions", "코딩 에이전트"],
+    "keywords": [
+      "GitHub Agentic Workflows",
+      "Anthropic",
+      "agentic coding",
+      "GitHub Actions",
+      "코딩 에이전트"
+    ],
     "filename": "2026-05-28-github-agentic-workflows-anthropic-coding-team.md",
     "word_count": 3715,
     "quality_score": "pass"
