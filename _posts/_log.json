@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-31",
+    "title": "에이전트 코딩은 왜 채팅보다 워크플로우가 중요해졌나",
+    "lang": "ko",
+    "keywords": [
+      "에이전트 코딩",
+      "GitHub Agentic Workflows",
+      "Claude Managed Agents",
+      "OpenAI Codex",
+      "워크플로우"
+    ],
+    "filename": "2026-05-31-agentic-coding-workflow-over-chat.md",
+    "word_count": 853,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-05-30",
     "title": "Claude Code와 Playwright MCP를 같이 쓰는 이유: 코드 수정과 브라우저 검증 분리하기",
     "lang": "ko",
