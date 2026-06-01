@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-01",
+    "title": "GitHub Copilot AI Credits 전환 후 가장 먼저 할 일: 모델별 비용과 예산선 정하기",
+    "lang": "ko",
+    "keywords": [
+      "GitHub Copilot",
+      "AI Credits",
+      "usage-based billing",
+      "비용 관리",
+      "agentic workflows"
+    ],
+    "filename": "2026-06-01-github-copilot-ai-credits-cost-control.md",
+    "word_count": 660,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-05-31",
     "title": "에이전트 코딩은 왜 채팅보다 워크플로우가 중요해졌나",
     "lang": "ko",
