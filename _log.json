@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-02",
+    "title": "챗보다 작업공간이 중요한 이유: GitHub Copilot agent skills와 agentic workflows",
+    "lang": "ko",
+    "keywords": [
+      "GitHub Copilot",
+      "agent skills",
+      "agentic workflows",
+      "GitHub Actions",
+      "AI agents"
+    ],
+    "filename": "2026-06-02-github-copilot-agent-skills-agentic-workflows.md",
+    "word_count": 560,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-06-01",
     "title": "GitHub Copilot AI Credits 전환 후 가장 먼저 할 일: 모델별 비용과 예산선 정하기",
     "lang": "ko",
