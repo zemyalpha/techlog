@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-03",
+    "title": "Gemini CLI와 Claude Code에서 서브에이전트를 나누는 법",
+    "lang": "ko",
+    "keywords": [
+      "Gemini CLI",
+      "Claude Code",
+      "subagents",
+      "context window",
+      "parallel execution"
+    ],
+    "filename": "2026-06-03-gemini-cli-claude-code-subagents.md",
+    "word_count": 600,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-06-02",
     "title": "챗보다 작업공간이 중요한 이유: GitHub Copilot agent skills와 agentic workflows",
     "lang": "ko",
