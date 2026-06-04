@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-04",
+    "title": "Agent skills는 지식, sandboxes는 실행: GitHub Copilot를 안전하게 굴리는 법",
+    "lang": "ko",
+    "keywords": [
+      "GitHub Copilot",
+      "agent skills",
+      "sandboxes",
+      "gh skill",
+      "AI security"
+    ],
+    "filename": "2026-06-04-github-copilot-agent-skills-sandboxes-safe-execution.md",
+    "word_count": 642,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-06-02",
     "title": "챗보다 작업공간이 중요한 이유: GitHub Copilot agent skills와 agentic workflows",
     "lang": "ko",
