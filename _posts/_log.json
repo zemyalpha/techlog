@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-07",
+    "title": "왜 MCP Registry와 Windows ODR가 중요한가: 에이전트 도구가 '발견 가능한 인프라'가 되는 순간",
+    "lang": "ko",
+    "keywords": [
+      "MCP Registry",
+      "Windows ODR",
+      "Model Context Protocol",
+      "mcp-publisher",
+      "agent connectors"
+    ],
+    "filename": "2026-06-07-mcp-registry-windows-odr-agent-discovery.md",
+    "word_count": 584,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-06-06",
     "title": "Agent skills는 지식, sandbox는 실행: GitHub Copilot과 Claude Code를 같이 쓰는 법",
     "lang": "ko",
