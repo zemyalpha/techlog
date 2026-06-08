@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-08",
+    "title": "AI 코딩 에이전트는 왜 스펙부터 써야 하나",
+    "lang": "ko",
+    "keywords": [
+      "spec-driven development",
+      "GitHub Spec Kit",
+      "prompt injection",
+      "Claude Code",
+      "AI coding agents"
+    ],
+    "filename": "2026-06-08-spec-before-execution-ai-coding-agents.md",
+    "word_count": 717,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-06-07",
     "title": "왜 MCP Registry와 Windows ODR가 중요한가: 에이전트 도구가 '발견 가능한 인프라'가 되는 순간",
     "lang": "ko",
