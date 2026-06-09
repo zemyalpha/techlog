@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-09",
+    "title": "GitHub Actions에 AI 에이전트를 넣을 때: Claude Code와 MCP를 분리하는 안전한 설계",
+    "lang": "ko",
+    "keywords": [
+      "GitHub Actions",
+      "Claude Code",
+      "MCP",
+      "read-only",
+      "agentic workflows"
+    ],
+    "filename": "2026-06-09-github-actions-claude-code-mcp-read-only-guardrails.md",
+    "word_count": 651,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-06-08",
     "title": "AI 코딩 에이전트는 왜 스펙부터 써야 하나",
     "lang": "ko",
