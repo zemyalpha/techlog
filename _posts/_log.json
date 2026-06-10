@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-10",
+    "title": "코딩 에이전트의 경쟁력은 모델보다 패키징에 있다",
+    "lang": "ko",
+    "keywords": [
+      "GitHub Agentic Workflows",
+      "Claude Code",
+      "subagents",
+      "skills",
+      "GitHub Actions"
+    ],
+    "filename": "2026-06-10-coding-agents-packaging-over-models.md",
+    "word_count": 583,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-06-08",
     "title": "AI 코딩 에이전트는 왜 스펙부터 써야 하나",
     "lang": "ko",
