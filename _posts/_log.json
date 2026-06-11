@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-11",
+    "title": "에이전트는 이제 IDE가 아니라 데스크톱 관제판에서 움직인다",
+    "lang": "ko",
+    "keywords": [
+      "GitHub Copilot app",
+      "OpenAI background mode",
+      "Claude Code",
+      "MCP Registry",
+      "AI agents"
+    ],
+    "filename": "2026-06-11-agent-control-plane-desktop-workflow.md",
+    "word_count": 668,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-06-10",
     "title": "코딩 에이전트의 경쟁력은 모델보다 패키징에 있다",
     "lang": "ko",
