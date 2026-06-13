@@ -453,5 +453,20 @@
     "filename": "2026-05-28-github-agentic-workflows-anthropic-coding-team.md",
     "word_count": 3715,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "GPT-5.3-Codex-Spark가 보여준 코딩 에이전트의 새 기준",
+    "lang": "ko",
+    "keywords": [
+      "GPT-5.3-Codex-Spark",
+      "Codex app",
+      "GitHub Copilot",
+      "Visual Studio Code",
+      "에이전트 워크플로우"
+    ],
+    "filename": "2026-06-13-gpt-53-codex-spark-coding-agent-new-standard.md",
+    "word_count": 653,
+    "quality_score": "pass"
   }
 ]
