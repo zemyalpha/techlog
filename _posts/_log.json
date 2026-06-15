@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-15",
+    "title": "GitHub agent sessions가 중요한 이유: 코딩 에이전트는 이제 로그가 제품이다",
+    "lang": "ko",
+    "keywords": [
+      "GitHub Copilot",
+      "agent sessions",
+      "/chronicle",
+      "GitHub Agentic Workflows",
+      "OpenAI Codex"
+    ],
+    "filename": "2026-06-15-github-agent-sessions-log-product.md",
+    "word_count": 566,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-06-14",
     "title": "Codex의 Ona 인수가 말해주는 것: 에이전트는 클라우드 작업공간이 필요하다",
     "lang": "ko",
