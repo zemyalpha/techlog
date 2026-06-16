@@ -298,5 +298,20 @@
     "filename": "2026-06-13-gpt-53-codex-spark-coding-agent-new-standard.md",
     "word_count": 653,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "MCP Registry·Chronicle·Playwright MCP로 만드는 디버그 가능한 에이전트 스택",
+    "lang": "ko",
+    "keywords": [
+      "MCP Registry",
+      "Chronicle",
+      "Playwright MCP",
+      "agent stack",
+      "observability"
+    ],
+    "filename": "2026-06-16-mcp-registry-chronicle-playwright-mcp-agent-stack.md",
+    "word_count": 584,
+    "quality_score": "pass"
   }
 ]
