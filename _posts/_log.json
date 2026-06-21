@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-21",
+    "title": "MCP Registry와 /chronicle가 바꾸는 에이전트 운영 방식",
+    "lang": "ko",
+    "keywords": [
+      "MCP Registry",
+      "/chronicle",
+      "Playwright MCP",
+      "agent operations",
+      "browser verification"
+    ],
+    "filename": "2026-06-21-mcp-registry-chronicle-agent-ops.md",
+    "word_count": 614,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-06-20",
     "title": "세션 로그와 브라우저 증거로 에이전트를 검증하는 법",
     "lang": "ko",
