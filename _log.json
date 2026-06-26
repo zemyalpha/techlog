@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-26",
+    "title": "MCP는 연결, Playwright는 검증: 코딩 에이전트의 프로덕션 분리 설계",
+    "lang": "ko",
+    "keywords": [
+      "코딩 에이전트",
+      "MCP",
+      "Playwright MCP",
+      "브라우저 검증",
+      "Google Cloud"
+    ],
+    "filename": "2026-06-26-mcp-playwright-verification-separation.md",
+    "word_count": 678,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-06-21",
     "title": "MCP Registry와 /chronicle가 바꾸는 에이전트 운영 방식",
     "lang": "ko",
