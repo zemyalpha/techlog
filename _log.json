@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-28",
+    "title": "Gemini Interactions API와 x402로 보는 AI 에이전트의 상태·배포·결제 분리",
+    "lang": "ko",
+    "keywords": [
+      "Gemini Interactions API",
+      "temporary accounts",
+      "x402",
+      "pay-per-crawl",
+      "AI 에이전트"
+    ],
+    "filename": "2026-06-28-gemini-interactions-api-x402-temporary-accounts.md",
+    "word_count": 637,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-06-26",
     "title": "MCP는 연결, Playwright는 검증: 코딩 에이전트의 프로덕션 분리 설계",
     "lang": "ko",
