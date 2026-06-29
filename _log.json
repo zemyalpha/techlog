@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-29",
+    "title": "AI 기능은 모델보다 실패 처리가 먼저다: 429·fallback·관측성 설계",
+    "lang": "ko",
+    "keywords": [
+      "rate limits",
+      "fallback",
+      "observability",
+      "AI Gateway",
+      "OpenAI"
+    ],
+    "filename": "2026-06-29-ai-rate-limit-fallback-observability.md",
+    "word_count": 534,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-06-28",
     "title": "Gemini Interactions API와 x402로 보는 AI 에이전트의 상태·배포·결제 분리",
     "lang": "ko",
