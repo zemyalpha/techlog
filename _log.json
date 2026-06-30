@@ -418,5 +418,20 @@
     "filename": "2026-06-16-mcp-registry-chronicle-playwright-mcp-agent-stack.md",
     "word_count": 584,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "LLM 평가 프레임워크 3종 비교: DeepEval vs RAGAS vs Promptfoo를 선택하는 기준",
+    "lang": "ko",
+    "keywords": [
+      "LLM evaluation",
+      "DeepEval",
+      "RAGAS",
+      "Promptfoo",
+      "AI testing"
+    ],
+    "filename": "2026-06-30-llm-evaluation-frameworks-deepeval-ragas-promptfoo.md",
+    "word_count": 1536,
+    "quality_score": "pass"
   }
 ]
