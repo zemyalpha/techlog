@@ -433,5 +433,20 @@
     "filename": "2026-06-30-llm-evaluation-frameworks-deepeval-ragas-promptfoo.md",
     "word_count": 1536,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "Rust가 LLM 추론 파이프라인에 들어오는 방식: Candle·Burn·tch-rs 실전 비교",
+    "lang": "ko",
+    "keywords": [
+      "Rust",
+      "LLM inference",
+      "Candle",
+      "Burn",
+      "tch-rs"
+    ],
+    "filename": "2026-06-30-rust-llm-inference-candle-burn-tch-rs.md",
+    "word_count": 2100,
+    "quality_score": "pass"
   }
 ]
