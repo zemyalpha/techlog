@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-01",
+    "title": "코딩 에이전트 성능평가, SWE-bench만 보면 놓치는 3가지",
+    "lang": "ko",
+    "keywords": [
+      "코딩 에이전트",
+      "SWE-bench",
+      "DeepSWE",
+      "벤치마크",
+      "소프트웨어 엔지니어링"
+    ],
+    "filename": "2026-07-01-coding-agent-eval-triad-swe-bench-deepswe-smoke-tests.md",
+    "word_count": 726,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-06-29",
     "title": "AI 기능은 모델보다 실패 처리가 먼저다: 429·fallback·관측성 설계",
     "lang": "ko",
