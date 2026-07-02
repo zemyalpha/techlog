@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-07-02",
+    "title": "pgvector에서 Qdrant로: 프로덕션 RAG가 벡터 DB를 갈아타는 분기점",
+    "lang": "ko",
+    "keywords": ["벡터 데이터베이스", "pgvector", "Qdrant", "RAG", "HNSW"],
+    "filename": "2026-07-02-vector-db-pgvector-qdrant-production-rag-migration.md",
+    "word_count": 1800,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-01",
     "title": "코딩 에이전트 성능평가, SWE-bench만 보면 놓치는 3가지",
     "lang": "ko",
