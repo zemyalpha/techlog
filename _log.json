@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-07-03",
+    "title": "브라우저에서 LLM을 실행한다는 것: WebGPU와 WebAssembly로 만드는 서버리스 AI",
+    "lang": "ko",
+    "keywords": ["WebGPU", "WebAssembly", "WebLLM", "브라우저 LLM", "클라이언트 사이드 AI"],
+    "filename": "2026-07-03-webgpu-webassembly-browser-llm-inference.md",
+    "word_count": 8572,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-02",
     "title": "pgvector에서 Qdrant로: 프로덕션 RAG가 벡터 DB를 갈아타는 분기점",
     "lang": "ko",
