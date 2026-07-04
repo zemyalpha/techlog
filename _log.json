@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-07-04",
+    "title": "LLM이 JSON을 깨트릴 때: 구조화 출력 3단계와 프로덕션에서 실제로 부서지는 지점",
+    "lang": "ko",
+    "keywords": ["구조화 출력", "Structured Outputs", "JSON Mode", "constrained decoding", "LLM"],
+    "filename": "2026-07-04-llm-structured-output-json-mode-constrained-decoding.md",
+    "word_count": 10680,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-03",
     "title": "브라우저에서 LLM을 실행한다는 것: WebGPU와 WebAssembly로 만드는 서버리스 AI",
     "lang": "ko",
