@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-07-05",
+    "title": "GGUF, AWQ, EXL2, MLX: 하드웨어별 LLM 양자화 포맷 선택 가이드",
+    "lang": "ko",
+    "keywords": ["LLM 양자화", "GGUF", "AWQ", "EXL2", "MLX", "quantization"],
+    "filename": "2026-07-05-llm-quantization-formats-gguf-awq-exl2-mlx-decision-guide.md",
+    "word_count": 3200,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-04",
     "title": "LLM이 JSON을 깨트릴 때: 구조화 출력 3단계와 프로덕션에서 실제로 부서지는 지점",
     "lang": "ko",
