@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-07-07",
+    "title": "GraphRAG가 정말 필요한가: 9개 시나리오 실험이 말해주는 RAG 선택의 진실",
+    "lang": "ko",
+    "keywords": ["GraphRAG", "Agentic RAG", "RAG 아키텍처", "지식 그래프", "검색 증강 생성"],
+    "filename": "2026-07-07-graphrag-needed-9-scenario-experiment-rag-architecture-truth.md",
+    "word_count": 2800,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-05",
     "title": "GGUF, AWQ, EXL2, MLX: 하드웨어별 LLM 양자화 포맷 선택 가이드",
     "lang": "ko",
