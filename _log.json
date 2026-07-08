@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-07-08",
+    "title": "LLM 의미론적 캐싱: 비용을 절반으로 줄이는 임계값의 딜레마",
+    "lang": "ko",
+    "keywords": ["semantic cache", "GPTCache", "LLM 비용 최적화", "Redis vector cache", "캐싱 임계값"],
+    "filename": "2026-07-08-llm-semantic-cache-threshold-dilemma-gptcache.md",
+    "word_count": 3200,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-07",
     "title": "GraphRAG가 정말 필요한가: 9개 시나리오 실험이 말해주는 RAG 선택의 진실",
     "lang": "ko",
