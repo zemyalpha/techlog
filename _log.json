@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-07-09",
+    "title": "MoE 모델을 프로덕션에 서빙할 때: 희소 라우팅이 GPU 비용 구조를 바꾸는 방식",
+    "lang": "ko",
+    "keywords": ["Mixture of Experts", "MoE 서빙", "DeepSeek V3", "vLLM", "SGLang", "expert parallelism"],
+    "filename": "2026-07-09-moe-model-serving-sparse-routing-gpu-cost-vllm-sglang.md",
+    "word_count": 3200,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-08",
     "title": "LLM 의미론적 캐싱: 비용을 절반으로 줄이는 임계값의 딜레마",
     "lang": "ko",
