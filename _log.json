@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-07-11",
+    "title": "LLM-as-Judge가 95% 일관성을 보여도 신뢰할 수 없는 이유: Cohen's Kappa, 편향, IRT 진단",
+    "lang": "ko",
+    "keywords": ["LLM-as-Judge", "Cohen's Kappa", "position bias", "Item Response Theory", "평가 신뢰성", "MT-Bench", "RewardBench"],
+    "filename": "2026-07-11-llm-as-judge-reliability-paradox-kappa-bias-irt-validation.md",
+    "word_count": 3200,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-10",
     "title": "LLM 가드레일 한 겹만 달면 터지는 이유: 6계층 분리 설계와 오탐 비용 계산",
     "lang": "ko",
