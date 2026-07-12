@@ -627,5 +627,14 @@
     "filename": "2026-06-16-mcp-registry-chronicle-playwright-mcp-agent-stack.md",
     "word_count": 584,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "MCP 2026-07-28 스펙이 바꾸는 것: 세션리스 프로토콜과 OAuth 2.1 리소스 서버",
+    "lang": "ko",
+    "keywords": ["MCP", "Model Context Protocol", "OAuth 2.1", "stateless protocol", "AI agent authentication"],
+    "filename": "2026-07-12-mcp-2026-07-28-spec-stateless-oauth2-resource-server.md",
+    "word_count": 3200,
+    "quality_score": "pass"
   }
 ]
