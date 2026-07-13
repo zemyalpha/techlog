@@ -544,5 +544,14 @@
     "filename": "2026-06-30-rust-llm-inference-candle-burn-tch-rs.md",
     "word_count": 2100,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "LLM 비용을 90% 줄이는 프롬프트 캐싱: Anthropic·OpenAI·Gemini 실전 비교와 4가지 함정",
+    "lang": "ko",
+    "keywords": ["prompt caching", "KV cache", "LLM 비용 최적화", "Anthropic Claude", "OpenAI GPT", "프롬프트 캐싱"],
+    "filename": "2026-07-13-llm-prompt-caching-kv-cache-reuse-cost-anthropic-openai-gemini.md",
+    "word_count": 3400,
+    "quality_score": "pass"
   }
 ]
