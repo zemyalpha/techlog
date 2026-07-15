@@ -553,5 +553,14 @@
     "filename": "2026-07-13-llm-prompt-caching-kv-cache-reuse-cost-anthropic-openai-gemini.md",
     "word_count": 3400,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "AI 에이전트 메모리 아키텍처 설계: 접근 패턴별 저장소 선택 가이드 (2026)",
+    "lang": "ko",
+    "keywords": ["AI agent memory", "LangGraph memory", "vector store", "Mem0", "에이전트 메모리"],
+    "filename": "2026-07-15-ai-agent-memory-architecture-access-pattern-storage-selection.md",
+    "word_count": 3800,
+    "quality_score": "pass"
   }
 ]
