@@ -562,5 +562,14 @@
     "filename": "2026-07-15-ai-agent-memory-architecture-access-pattern-storage-selection.md",
     "word_count": 3800,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "RAG가 '비슷한 문서'가 아니라 '맞는 문서'를 찾게 하는 한 겹: Cross-encoder Reranker 선택과 배포",
+    "lang": "ko",
+    "keywords": ["Reranker", "Cross-encoder", "BGE-Reranker", "Cohere Rerank", "RAG 검색 품질", "NDCG"],
+    "filename": "2026-07-16-reranker-cross-encoder-rag-quality-bge-cohere-jina-selection.md",
+    "word_count": 6500,
+    "quality_score": "pass"
   }
 ]
