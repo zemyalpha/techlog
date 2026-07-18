@@ -3,7 +3,15 @@
     "date": "2026-07-11",
     "title": "LLM-as-Judge가 95% 일관성을 보여도 신뢰할 수 없는 이유: Cohen's Kappa, 편향, IRT 진단",
     "lang": "ko",
-    "keywords": ["LLM-as-Judge", "Cohen's Kappa", "position bias", "Item Response Theory", "평가 신뢰성", "MT-Bench", "RewardBench"],
+    "keywords": [
+      "LLM-as-Judge",
+      "Cohen's Kappa",
+      "position bias",
+      "Item Response Theory",
+      "평가 신뢰성",
+      "MT-Bench",
+      "RewardBench"
+    ],
     "filename": "2026-07-11-llm-as-judge-reliability-paradox-kappa-bias-irt-validation.md",
     "word_count": 3200,
     "quality_score": "pass"
@@ -12,7 +20,14 @@
     "date": "2026-07-10",
     "title": "LLM 가드레일 한 겹만 달면 터지는 이유: 6계층 분리 설계와 오탐 비용 계산",
     "lang": "ko",
-    "keywords": ["LLM 가드레일", "NeMo Guardrails", "Llama Guard 3", "OWASP LLM Top 10", "prompt injection", "PII redaction"],
+    "keywords": [
+      "LLM 가드레일",
+      "NeMo Guardrails",
+      "Llama Guard 3",
+      "OWASP LLM Top 10",
+      "prompt injection",
+      "PII redaction"
+    ],
     "filename": "2026-07-10-llm-guardrails-six-layer-production-architecture-false-positive-cost.md",
     "word_count": 3500,
     "quality_score": "pass"
@@ -21,7 +36,14 @@
     "date": "2026-07-09",
     "title": "MoE 모델을 프로덕션에 서빙할 때: 희소 라우팅이 GPU 비용 구조를 바꾸는 방식",
     "lang": "ko",
-    "keywords": ["Mixture of Experts", "MoE 서빙", "DeepSeek V3", "vLLM", "SGLang", "expert parallelism"],
+    "keywords": [
+      "Mixture of Experts",
+      "MoE 서빙",
+      "DeepSeek V3",
+      "vLLM",
+      "SGLang",
+      "expert parallelism"
+    ],
     "filename": "2026-07-09-moe-model-serving-sparse-routing-gpu-cost-vllm-sglang.md",
     "word_count": 3200,
     "quality_score": "pass"
@@ -30,7 +52,13 @@
     "date": "2026-07-08",
     "title": "LLM 의미론적 캐싱: 비용을 절반으로 줄이는 임계값의 딜레마",
     "lang": "ko",
-    "keywords": ["semantic cache", "GPTCache", "LLM 비용 최적화", "Redis vector cache", "캐싱 임계값"],
+    "keywords": [
+      "semantic cache",
+      "GPTCache",
+      "LLM 비용 최적화",
+      "Redis vector cache",
+      "캐싱 임계값"
+    ],
     "filename": "2026-07-08-llm-semantic-cache-threshold-dilemma-gptcache.md",
     "word_count": 3200,
     "quality_score": "pass"
@@ -39,7 +67,13 @@
     "date": "2026-07-07",
     "title": "GraphRAG가 정말 필요한가: 9개 시나리오 실험이 말해주는 RAG 선택의 진실",
     "lang": "ko",
-    "keywords": ["GraphRAG", "Agentic RAG", "RAG 아키텍처", "지식 그래프", "검색 증강 생성"],
+    "keywords": [
+      "GraphRAG",
+      "Agentic RAG",
+      "RAG 아키텍처",
+      "지식 그래프",
+      "검색 증강 생성"
+    ],
     "filename": "2026-07-07-graphrag-needed-9-scenario-experiment-rag-architecture-truth.md",
     "word_count": 2800,
     "quality_score": "pass"
@@ -48,7 +82,14 @@
     "date": "2026-07-05",
     "title": "GGUF, AWQ, EXL2, MLX: 하드웨어별 LLM 양자화 포맷 선택 가이드",
     "lang": "ko",
-    "keywords": ["LLM 양자화", "GGUF", "AWQ", "EXL2", "MLX", "quantization"],
+    "keywords": [
+      "LLM 양자화",
+      "GGUF",
+      "AWQ",
+      "EXL2",
+      "MLX",
+      "quantization"
+    ],
     "filename": "2026-07-05-llm-quantization-formats-gguf-awq-exl2-mlx-decision-guide.md",
     "word_count": 3200,
     "quality_score": "pass"
@@ -57,7 +98,13 @@
     "date": "2026-07-04",
     "title": "LLM이 JSON을 깨트릴 때: 구조화 출력 3단계와 프로덕션에서 실제로 부서지는 지점",
     "lang": "ko",
-    "keywords": ["구조화 출력", "Structured Outputs", "JSON Mode", "constrained decoding", "LLM"],
+    "keywords": [
+      "구조화 출력",
+      "Structured Outputs",
+      "JSON Mode",
+      "constrained decoding",
+      "LLM"
+    ],
     "filename": "2026-07-04-llm-structured-output-json-mode-constrained-decoding.md",
     "word_count": 10680,
     "quality_score": "pass"
@@ -66,7 +113,13 @@
     "date": "2026-07-03",
     "title": "브라우저에서 LLM을 실행한다는 것: WebGPU와 WebAssembly로 만드는 서버리스 AI",
     "lang": "ko",
-    "keywords": ["WebGPU", "WebAssembly", "WebLLM", "브라우저 LLM", "클라이언트 사이드 AI"],
+    "keywords": [
+      "WebGPU",
+      "WebAssembly",
+      "WebLLM",
+      "브라우저 LLM",
+      "클라이언트 사이드 AI"
+    ],
     "filename": "2026-07-03-webgpu-webassembly-browser-llm-inference.md",
     "word_count": 8572,
     "quality_score": "pass"
@@ -75,7 +128,13 @@
     "date": "2026-07-02",
     "title": "pgvector에서 Qdrant로: 프로덕션 RAG가 벡터 DB를 갈아타는 분기점",
     "lang": "ko",
-    "keywords": ["벡터 데이터베이스", "pgvector", "Qdrant", "RAG", "HNSW"],
+    "keywords": [
+      "벡터 데이터베이스",
+      "pgvector",
+      "Qdrant",
+      "RAG",
+      "HNSW"
+    ],
     "filename": "2026-07-02-vector-db-pgvector-qdrant-production-rag-migration.md",
     "word_count": 1800,
     "quality_score": "pass"
@@ -549,7 +608,14 @@
     "date": "2026-07-13",
     "title": "LLM 비용을 90% 줄이는 프롬프트 캐싱: Anthropic·OpenAI·Gemini 실전 비교와 4가지 함정",
     "lang": "ko",
-    "keywords": ["prompt caching", "KV cache", "LLM 비용 최적화", "Anthropic Claude", "OpenAI GPT", "프롬프트 캐싱"],
+    "keywords": [
+      "prompt caching",
+      "KV cache",
+      "LLM 비용 최적화",
+      "Anthropic Claude",
+      "OpenAI GPT",
+      "프롬프트 캐싱"
+    ],
     "filename": "2026-07-13-llm-prompt-caching-kv-cache-reuse-cost-anthropic-openai-gemini.md",
     "word_count": 3400,
     "quality_score": "pass"
@@ -558,7 +624,13 @@
     "date": "2026-07-15",
     "title": "AI 에이전트 메모리 아키텍처 설계: 접근 패턴별 저장소 선택 가이드 (2026)",
     "lang": "ko",
-    "keywords": ["AI agent memory", "LangGraph memory", "vector store", "Mem0", "에이전트 메모리"],
+    "keywords": [
+      "AI agent memory",
+      "LangGraph memory",
+      "vector store",
+      "Mem0",
+      "에이전트 메모리"
+    ],
     "filename": "2026-07-15-ai-agent-memory-architecture-access-pattern-storage-selection.md",
     "word_count": 3800,
     "quality_score": "pass"
@@ -567,9 +639,31 @@
     "date": "2026-07-16",
     "title": "RAG가 '비슷한 문서'가 아니라 '맞는 문서'를 찾게 하는 한 겹: Cross-encoder Reranker 선택과 배포",
     "lang": "ko",
-    "keywords": ["Reranker", "Cross-encoder", "BGE-Reranker", "Cohere Rerank", "RAG 검색 품질", "NDCG"],
+    "keywords": [
+      "Reranker",
+      "Cross-encoder",
+      "BGE-Reranker",
+      "Cohere Rerank",
+      "RAG 검색 품질",
+      "NDCG"
+    ],
     "filename": "2026-07-16-reranker-cross-encoder-rag-quality-bge-cohere-jina-selection.md",
     "word_count": 6500,
+    "quality_score": "pass"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "서버리스 GPU와 Claude Code를 같이 써야 하는 2026 AI 개발 스택",
+    "lang": "ko",
+    "keywords": [
+      "serverless GPU",
+      "Claude Code",
+      "Cursor",
+      "AI 개발 스택",
+      "scale to zero"
+    ],
+    "filename": "2026-07-18-serverless-gpu-claude-code-cursor-ai-stack.md",
+    "word_count": 900,
     "quality_score": "pass"
   }
 ]
