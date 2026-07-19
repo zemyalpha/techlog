@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-19",
+    "title": "AI 에이전트 트래픽을 인증해야 하는 이유: WBA와 MCP 보안",
+    "lang": "ko",
+    "keywords": [
+      "AI 에이전트",
+      "AWS WAF",
+      "Web Bot Authentication",
+      "MCP",
+      "prompt injection"
+    ],
+    "filename": "2026-07-19-ai-agent-traffic-authentication-wba-mcp-security.md",
+    "word_count": 2100,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-11",
     "title": "LLM-as-Judge가 95% 일관성을 보여도 신뢰할 수 없는 이유: Cohen's Kappa, 편향, IRT 진단",
     "lang": "ko",

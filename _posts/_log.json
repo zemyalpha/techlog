@@ -1,9 +1,31 @@
 [
   {
+    "date": "2026-07-19",
+    "title": "AI 에이전트 트래픽을 인증해야 하는 이유: WBA와 MCP 보안",
+    "lang": "ko",
+    "keywords": [
+      "AI 에이전트",
+      "AWS WAF",
+      "Web Bot Authentication",
+      "MCP",
+      "prompt injection"
+    ],
+    "filename": "2026-07-19-ai-agent-traffic-authentication-wba-mcp-security.md",
+    "word_count": 2100,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-14",
     "title": "온디바이스 LLM이 서버를 대체할 수 있는가: Gemma 4·MLX M5·NPU 가속의 현실적 한계와 가능",
     "lang": "ko",
-    "keywords": ["온디바이스 LLM", "Gemma 4", "Gemini Nano", "Apple MLX", "NPU 가속", "edge inference"],
+    "keywords": [
+      "온디바이스 LLM",
+      "Gemma 4",
+      "Gemini Nano",
+      "Apple MLX",
+      "NPU 가속",
+      "edge inference"
+    ],
     "filename": "2026-07-14-on-device-llm-inference-gemma4-mlx-m5-npu-acceleration.md",
     "word_count": 2800,
     "quality_score": "pass"
@@ -12,7 +34,14 @@
     "date": "2026-07-06",
     "title": "LLM 추론 속도를 2~6배 올리는 추측 디코딩: EAGLE-3, Medusa, vLLM 실전 가이드",
     "lang": "ko",
-    "keywords": ["추측 디코딩", "speculative decoding", "EAGLE-3", "Medusa", "vLLM", "LLM 추론 최적화"],
+    "keywords": [
+      "추측 디코딩",
+      "speculative decoding",
+      "EAGLE-3",
+      "Medusa",
+      "vLLM",
+      "LLM 추론 최적화"
+    ],
     "filename": "2026-07-06-speculative-decoding-llm-inference-speedup-eagle-medusa-vllm.md",
     "word_count": 2400,
     "quality_score": "pass"
@@ -641,7 +670,13 @@
     "date": "2026-07-12",
     "title": "MCP 2026-07-28 스펙이 바꾸는 것: 세션리스 프로토콜과 OAuth 2.1 리소스 서버",
     "lang": "ko",
-    "keywords": ["MCP", "Model Context Protocol", "OAuth 2.1", "stateless protocol", "AI agent authentication"],
+    "keywords": [
+      "MCP",
+      "Model Context Protocol",
+      "OAuth 2.1",
+      "stateless protocol",
+      "AI agent authentication"
+    ],
     "filename": "2026-07-12-mcp-2026-07-28-spec-stateless-oauth2-resource-server.md",
     "word_count": 3200,
     "quality_score": "pass"
