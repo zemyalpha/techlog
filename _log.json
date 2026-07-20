@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-20",
+    "title": "AI 에이전트 상거래 스택 3층 구조: Web Bot Auth, MCP OAuth, x402",
+    "lang": "ko",
+    "keywords": [
+      "AI 에이전트",
+      "Web Bot Auth",
+      "MCP OAuth",
+      "x402",
+      "agentic commerce"
+    ],
+    "filename": "2026-07-20-ai-agent-commerce-stack-web-bot-auth-mcp-oauth-x402.md",
+    "word_count": 1500,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-19",
     "title": "AI 에이전트 트래픽을 인증해야 하는 이유: WBA와 MCP 보안",
     "lang": "ko",
