@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-24",
+    "title": "읽기·쓰기 MCP와 x402 결제를 분리해야 하는 이유",
+    "lang": "ko",
+    "keywords": [
+      "MCP",
+      "x402",
+      "Quote-to-Cash",
+      "AI 에이전트",
+      "agentic commerce"
+    ],
+    "filename": "2026-07-24-read-write-mcp-x402-payment-separation.md",
+    "word_count": 743,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-20",
     "title": "AI 에이전트 상거래 스택 3층 구조: Web Bot Auth, MCP OAuth, x402",
     "lang": "ko",
