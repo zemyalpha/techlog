@@ -1260,5 +1260,21 @@
     "filename": "2026-09-08-agent-memory-locomo-longmemeval-design.md",
     "word_count": 3600,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-09-09",
+    "title": "OpenTelemetry GenAI 스펙은 아직 전부 Development다: 대시보드가 까맣게 변하는 마이그레이션 함정 피하기",
+    "lang": "ko",
+    "keywords": [
+      "OpenTelemetry",
+      "GenAI",
+      "observability",
+      "LLM tracing",
+      "에이전트 관측가능성",
+      "OTLP"
+    ],
+    "filename": "2026-09-09-opentelemetry-genai-conventions-development-status-guide.md",
+    "word_count": 2100,
+    "quality_score": "pass"
   }
 ]
