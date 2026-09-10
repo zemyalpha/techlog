@@ -1276,5 +1276,21 @@
     "filename": "2026-09-09-opentelemetry-genai-conventions-development-status-guide.md",
     "word_count": 2100,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-09-10",
+    "title": "맥에서 LLM 돌리기 2026: MLX가 M5에서 실제로 빨라지는 지점과 WWDC 2026의 변화",
+    "lang": "ko",
+    "keywords": [
+      "MLX",
+      "Apple Silicon",
+      "로컬 LLM",
+      "mlx-lm",
+      "M5 Neural Accelerators",
+      "Foundation Models"
+    ],
+    "filename": "2026-09-10-mlx-apple-silicon-local-llm-m5-wwdc2026.md",
+    "word_count": 4295,
+    "quality_score": "pass"
   }
 ]
