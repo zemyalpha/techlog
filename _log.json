@@ -1292,5 +1292,22 @@
     "filename": "2026-09-10-mlx-apple-silicon-local-llm-m5-wwdc2026.md",
     "word_count": 4295,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "아젠틱 서빙은 채팅 서빙과 다른 게임이다: vLLM AgentX 최적화에서 배우는 KV 캐시·병렬성·라우팅 설계",
+    "lang": "ko",
+    "keywords": [
+      "아젠틱 서빙",
+      "vLLM",
+      "KV 캐시",
+      "prefix caching",
+      "Mooncake",
+      "디코드 컨텍스트 병렬성",
+      "P/D 분리"
+    ],
+    "filename": "2026-09-11-agentic-serving-vllm-agentx-kv-cache-parallelism-routing.md",
+    "word_count": 9000,
+    "quality_score": "pass"
   }
 ]
