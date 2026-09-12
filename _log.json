@@ -1309,5 +1309,20 @@
     "filename": "2026-09-11-agentic-serving-vllm-agentx-kv-cache-parallelism-routing.md",
     "word_count": 9000,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-09-12",
+    "title": "에이전트에게 도구를 쥐여주기 전에: 프롬프트 인젝션 방어를 4개 계층으로 나누는 설계",
+    "lang": "ko",
+    "keywords": [
+      "프롬프트 인젝션",
+      "LLM 에이전트 보안",
+      "guardrail",
+      "최소 권한",
+      "OWASP LLM Top 10"
+    ],
+    "filename": "2026-09-12-llm-agent-prompt-injection-defense-architecture.md",
+    "word_count": 8376,
+    "quality_score": "pass"
   }
 ]
