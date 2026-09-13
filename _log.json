@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-09-13",
+    "title": "컨텍스트 로트에서 서브에이전트까지: 긴 컨텍스트가 에이전트를 망가뜨리는 4가지 방식과 실전 처방",
+    "lang": "ko",
+    "keywords": [
+      "컨텍스트 엔지니어링",
+      "context rot",
+      "AI 에이전트",
+      "AGENTS.md",
+      "컨텍스트 관리",
+      "LLM"
+    ],
+    "filename": "2026-09-13-context-rot-agent-failure-modes-context-engineering-guide.md",
+    "word_count": 4900,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-09-04",
     "title": "vLLM FP8 KV 캐시 실전 가이드: 디코드 비용 절반으로 줄이는 조건 3가지",
     "lang": "ko",
