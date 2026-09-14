@@ -1340,5 +1340,21 @@
     "filename": "2026-09-12-llm-agent-prompt-injection-defense-architecture.md",
     "word_count": 8376,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "AI 코딩 에이전트 시대, 코드 대신 스펙이 산출물이 된다 — Spec Kit 워크플로 실전 가이드",
+    "lang": "ko",
+    "keywords": [
+      "스펙 주도 개발",
+      "Spec-Driven Development",
+      "GitHub Spec Kit",
+      "AI 코딩 에이전트",
+      "Kiro",
+      "specify CLI"
+    ],
+    "filename": "2026-09-14-spec-driven-development-spec-kit-workflow.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
