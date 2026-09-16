@@ -1371,5 +1371,21 @@
     "filename": "2026-09-15-swe-bench-verified-retired-contamination-analysis.md",
     "word_count": 3200,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "Claude Agent SDK 실전 가이드 — 권한·훅·서브에이전트로 프로덕션 에이전트 만들기",
+    "lang": "ko",
+    "keywords": [
+      "Claude Agent SDK",
+      "AI 에이전트",
+      "hooks",
+      "subagents",
+      "permission",
+      "Claude Code"
+    ],
+    "filename": "2026-09-16-claude-agent-sdk-hooks-subagents-permissions.md",
+    "word_count": 6300,
+    "quality_score": "pass"
   }
 ]
