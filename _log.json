@@ -1387,5 +1387,21 @@
     "filename": "2026-09-16-claude-agent-sdk-hooks-subagents-permissions.md",
     "word_count": 6300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "확산 언어 모델은 왜 초당 1,000 토큰을 뽑는가 — LLaDA에서 DiffusionGemma까지 병렬 디코딩의 원리",
+    "lang": "ko",
+    "keywords": [
+      "확산 언어 모델",
+      "diffusion LLM",
+      "DiffusionGemma",
+      "LLaDA",
+      "병렬 디코딩",
+      "dLLM"
+    ],
+    "filename": "2026-09-17-diffusion-llm-parallel-decoding-latency.md",
+    "word_count": 6300,
+    "quality_score": "pass"
   }
 ]
