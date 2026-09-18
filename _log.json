@@ -1403,5 +1403,21 @@
     "filename": "2026-09-17-diffusion-llm-parallel-decoding-latency.md",
     "word_count": 6300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "A2A 프로토콜 v1.0 완전 해부 — 에이전트끼리 대화하는 표준은 MCP와 무엇이 다른가",
+    "lang": "ko",
+    "keywords": [
+      "A2A 프로토콜",
+      "Agent2Agent",
+      "MCP",
+      "에이전트 상호운용성",
+      "멀티 에이전트",
+      "Agent Card"
+    ],
+    "filename": "2026-09-18-a2a-protocol-v1-agent-to-agent-interoperability.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
