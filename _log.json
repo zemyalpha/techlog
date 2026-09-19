@@ -1419,5 +1419,21 @@
     "filename": "2026-09-18-a2a-protocol-v1-agent-to-agent-interoperability.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "컴퓨터 유즈 에이전트 순위는 1.1%p 차이다 — OSWorld·WebArena 점수로 실무 모델을 고르는 4축 프레임워크",
+    "lang": "ko",
+    "keywords": [
+      "컴퓨터 유즈 에이전트",
+      "OSWorld",
+      "WebArena",
+      "computer use agent",
+      "CUA 벤치마크",
+      "GUI 자동화"
+    ],
+    "filename": "2026-09-19-computer-use-agent-four-axes-benchmark-selection.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
