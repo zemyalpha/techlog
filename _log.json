@@ -1435,5 +1435,22 @@
     "filename": "2026-09-19-computer-use-agent-four-axes-benchmark-selection.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-09-20",
+    "title": "LLM API 비용 90% 절감의 정석 — 프롬프트 캐싱 원리와 손익분기 계산법",
+    "lang": "ko",
+    "keywords": [
+      "프롬프트 캐싱",
+      "prompt caching",
+      "LLM API 비용",
+      "KV cache",
+      "Anthropic API",
+      "OpenAI API",
+      "Gemini"
+    ],
+    "filename": "2026-09-20-prompt-caching-llm-api-cost-optimization.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
