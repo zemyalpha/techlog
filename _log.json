@@ -1452,5 +1452,21 @@
     "filename": "2026-09-20-prompt-caching-llm-api-cost-optimization.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "AI 에이전트는 왜 3일 만에 나를 잊어버리는가 — Mem0·Letta·Zep 메모리 레이어 선택 가이드",
+    "lang": "ko",
+    "keywords": [
+      "에이전트 메모리",
+      "Mem0",
+      "Letta",
+      "Zep",
+      "Graphiti",
+      "장기 기억"
+    ],
+    "filename": "2026-09-21-agent-memory-layer-mem0-letta-zep-selection.md",
+    "word_count": 4800,
+    "quality_score": "pass"
   }
 ]
