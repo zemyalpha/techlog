@@ -1501,5 +1501,21 @@
   "filename": "2026-09-24-rag-vs-long-context-2026-selection-framework.md",
   "word_count": 4300,
   "quality_score": "pass"
+ },
+ {
+  "date": "2026-09-25",
+  "title": "GPT-4 심판은 진짜 80% 맞출까 — LLM-as-a-Judge 편향 4종과 OTel로 심사관까지 감사하는 법",
+  "lang": "ko",
+  "keywords": [
+   "LLM-as-a-Judge",
+   "에이전트 평가",
+   "G-Eval",
+   "MT-Bench",
+   "OpenTelemetry",
+   "LLM 평가"
+  ],
+  "filename": "2026-09-25-llm-as-a-judge-bias-mitigation-otel-observability.md",
+  "word_count": 2500,
+  "quality_score": "pass"
  }
 ]
