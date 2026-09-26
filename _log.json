@@ -1,5 +1,22 @@
 [
  {
+  "date": "2026-09-26",
+  "title": "윈도우에 14B 에이전트 모델이 들어온다 — Aion 1.0 Plan·Instruct와 MXC가 만드는 로컬 에이전트 스택의 실체",
+  "lang": "ko",
+  "keywords": [
+   "Aion 1.0",
+   "온디바이스 SLM",
+   "Windows AI",
+   "로컬 에이전트",
+   "MXC",
+   "NPU",
+   "Copilot+ PC"
+  ],
+  "filename": "2026-09-26-aion-1-windows-on-device-agent-14b-plan-instruct-mxc.md",
+  "word_count": 4600,
+  "quality_score": "pass"
+ },
+{
   "date": "2026-09-22",
   "title": "RTX 5090 한 장에 1조 파라미터 MoE를 올리는 방법 — SSD-LLaMA의 3계층 캐시와 BOOST의 대역폭 합산",
   "lang": "ko",
