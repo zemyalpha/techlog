@@ -1551,5 +1551,21 @@
     "filename": "2026-09-27-constrained-decoding-xgrammar2-structured-output.md",
     "word_count": 6758,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "프론티어 MoE가 맥 스튜디오에 들어온 2026년 9월 — GLM-5.3-Flash와 Qwen3.8-Flash-Next를 로컬로 돌리는 법과 라이선스 함정",
+    "lang": "ko",
+    "keywords": [
+      "로컬 LLM",
+      "GLM-5.3-Flash",
+      "Qwen3.8-Flash-Next",
+      "MoE",
+      "Mac Studio",
+      "오픈웨이트 라이선스"
+    ],
+    "filename": "2026-09-28-frontier-moe-mac-studio-glm-5-3-flash-qwen3-8-flash-next-local.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
