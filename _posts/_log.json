@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-29",
+    "title": "음성 AI 에이전트의 두 갈래 길: STT-LLM-TTS 파이프라인 vs Speech-to-Speech 아키텍처",
+    "lang": "ko",
+    "keywords": [
+      "음성 AI 에이전트",
+      "speech to speech",
+      "Realtime API",
+      "STT LLM TTS 파이프라인",
+      "voice agent 아키텍처"
+    ],
+    "filename": "2026-09-29-voice-agent-s2s-vs-pipeline-architecture.md",
+    "word_count": 4800,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-09-06",
     "title": "정답만 확인하면 학습이 된다: RLVR과 GRPO로 추론 모델을 훈련하는 원리와 실전",
     "lang": "ko",
