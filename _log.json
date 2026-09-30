@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-09-30",
+    "title": "가중치만이 아니라 레시피까지 연다 — MBZUAI K2 Horizon 0.9B~375B 6형제 분해와 사이즈 선택 가이드",
+    "lang": "ko",
+    "keywords": ["K2 Horizon", "MBZUAI", "오픈소스 LLM", "MoE", "Apache 2.0", "IFM", "오픈 웨이트"],
+    "filename": "2026-09-30-mbzuai-k2-horizon-six-open-models-375b-a23b-guide.md",
+    "word_count": 7900,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-09-26",
     "title": "윈도우에 14B 에이전트 모델이 들어온다 — Aion 1.0 Plan·Instruct와 MXC가 만드는 로컬 에이전트 스택의 실체",
     "lang": "ko",
