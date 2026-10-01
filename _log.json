@@ -1576,5 +1576,14 @@
     "filename": "2026-09-28-frontier-moe-mac-studio-glm-5-3-flash-qwen3-8-flash-next-local.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "에이전트는 추론 최적화를 알면서도 실행하지 못한다 — InferenceBench 180런이 드러낸 지식-실행 격차의 해부학",
+    "lang": "ko",
+    "keywords": ["InferenceBench", "AI 에이전트 평가", "LLM 추론 최적화", "vLLM", "하이퍼파라미터 검색", "에이전트 벤치마크"],
+    "filename": "2026-10-01-inferencebench-agent-llm-inference-optimization-knowledge-execution-gap.md",
+    "word_count": 7600,
+    "quality_score": "pass"
   }
 ]
