@@ -1585,5 +1585,14 @@
     "filename": "2026-10-01-inferencebench-agent-llm-inference-optimization-knowledge-execution-gap.md",
     "word_count": 7600,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "텍스트를 생성하지 않는 AI 모델이 등장했다 — Cloudflare Clef와 '결정 모델'이 에이전트 핫패스를 바꾸는 방식",
+    "lang": "ko",
+    "keywords": ["결정 모델", "decision model", "Cloudflare Clef", "System One", "Jev", "TypeSafe AI", "AI 에이전트 라우팅", "분류 모델"],
+    "filename": "2026-10-02-cloudflare-clef-decision-model-system-one-agent-hotpath.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
