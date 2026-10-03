@@ -3,7 +3,15 @@
     "date": "2026-09-30",
     "title": "가중치만이 아니라 레시피까지 연다 — MBZUAI K2 Horizon 0.9B~375B 6형제 분해와 사이즈 선택 가이드",
     "lang": "ko",
-    "keywords": ["K2 Horizon", "MBZUAI", "오픈소스 LLM", "MoE", "Apache 2.0", "IFM", "오픈 웨이트"],
+    "keywords": [
+      "K2 Horizon",
+      "MBZUAI",
+      "오픈소스 LLM",
+      "MoE",
+      "Apache 2.0",
+      "IFM",
+      "오픈 웨이트"
+    ],
     "filename": "2026-09-30-mbzuai-k2-horizon-six-open-models-375b-a23b-guide.md",
     "word_count": 7900,
     "quality_score": "pass"
@@ -1581,7 +1589,14 @@
     "date": "2026-10-01",
     "title": "에이전트는 추론 최적화를 알면서도 실행하지 못한다 — InferenceBench 180런이 드러낸 지식-실행 격차의 해부학",
     "lang": "ko",
-    "keywords": ["InferenceBench", "AI 에이전트 평가", "LLM 추론 최적화", "vLLM", "하이퍼파라미터 검색", "에이전트 벤치마크"],
+    "keywords": [
+      "InferenceBench",
+      "AI 에이전트 평가",
+      "LLM 추론 최적화",
+      "vLLM",
+      "하이퍼파라미터 검색",
+      "에이전트 벤치마크"
+    ],
     "filename": "2026-10-01-inferencebench-agent-llm-inference-optimization-knowledge-execution-gap.md",
     "word_count": 7600,
     "quality_score": "pass"
@@ -1590,9 +1605,35 @@
     "date": "2026-10-02",
     "title": "텍스트를 생성하지 않는 AI 모델이 등장했다 — Cloudflare Clef와 '결정 모델'이 에이전트 핫패스를 바꾸는 방식",
     "lang": "ko",
-    "keywords": ["결정 모델", "decision model", "Cloudflare Clef", "System One", "Jev", "TypeSafe AI", "AI 에이전트 라우팅", "분류 모델"],
+    "keywords": [
+      "결정 모델",
+      "decision model",
+      "Cloudflare Clef",
+      "System One",
+      "Jev",
+      "TypeSafe AI",
+      "AI 에이전트 라우팅",
+      "분류 모델"
+    ],
     "filename": "2026-10-02-cloudflare-clef-decision-model-system-one-agent-hotpath.md",
     "word_count": 4300,
+    "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "에이전트와 UI 사이의 마지막 빈 자리가 채워졌다 — AG-UI 1.0 스테이블 스펙 설계와 마이그레이션 실전",
+    "lang": "ko",
+    "keywords": [
+      "AG-UI",
+      "에이전트 프로토콜",
+      "MCP",
+      "A2A",
+      "CopilotKit",
+      "SSE",
+      "AI 에이전트 UI"
+    ],
+    "filename": "2026-10-03-ag-ui-1-0-agent-user-interaction-protocol-stack.md",
+    "word_count": 7100,
     "quality_score": "pass"
   }
 ]
