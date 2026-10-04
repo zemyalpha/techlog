@@ -1635,5 +1635,22 @@
     "filename": "2026-10-03-ag-ui-1-0-agent-user-interaction-protocol-stack.md",
     "word_count": 7100,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "에이전트가 스스로 끌 수 없는 안전장치 — 엔비디아 OpenShell과 Sentry의 설계 해부",
+    "lang": "ko",
+    "keywords": [
+      "OpenShell",
+      "NVIDIA Sentry",
+      "AI 에이전트 보안",
+      "에이전트 샌드박스",
+      "BlueField-4",
+      "Landlock",
+      "정책 프루버"
+    ],
+    "filename": "2026-10-04-nvidia-openshell-sentry-agent-safety-outside-agent.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
