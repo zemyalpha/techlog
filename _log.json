@@ -1652,5 +1652,21 @@
     "filename": "2026-10-04-nvidia-openshell-sentry-agent-safety-outside-agent.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "같은 $20인데 청구서는 70배 다르다 — AI 코딩 에이전트 4가지 요금 아키텍처와 태스크당 비용 수학",
+    "lang": "ko",
+    "keywords": [
+      "AI 코딩 에이전트",
+      "Claude Code 요금",
+      "Cursor 가격",
+      "Devin ACU",
+      "GitHub Copilot AI Credits",
+      "토큰 비용 최적화"
+    ],
+    "filename": "2026-10-05-ai-coding-agent-pricing-architectures-per-task-cost-math.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
