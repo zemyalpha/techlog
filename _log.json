@@ -1668,5 +1668,21 @@
     "filename": "2026-10-05-ai-coding-agent-pricing-architectures-per-task-cost-math.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-06",
+    "title": "에이전트는 어떻게 잊는가 — 2026년 장기기억 연구가 알려주는 설계 원칙 4가지",
+    "lang": "ko",
+    "keywords": [
+      "LLM 에이전트 장기기억",
+      "agent memory",
+      "망각 곡선",
+      "메모리 통합",
+      "LoCoMo",
+      "LongMemEval"
+    ],
+    "filename": "2026-10-06-agent-memory-forgetting-belief-revision-design.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
