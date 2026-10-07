@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-10-07",
+    "title": "에이전트가 대신 사는 시대의 관문 — Personal Agent Protocol은 무엇을 바꾸려 하나",
+    "lang": "ko",
+    "keywords": [
+      "Personal Agent Protocol",
+      "agentic commerce",
+      "에이전트 커머스",
+      "OAuth",
+      "MCP",
+      "Sierra",
+      "Meta Muse"
+    ],
+    "filename": "2026-10-07-personal-agent-protocol-agentic-commerce-standards.md",
+    "word_count": 4600,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-09-30",
     "title": "가중치만이 아니라 레시피까지 연다 — MBZUAI K2 Horizon 0.9B~375B 6형제 분해와 사이즈 선택 가이드",
     "lang": "ko",
