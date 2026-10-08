@@ -1701,5 +1701,22 @@
     "filename": "2026-10-06-agent-memory-forgetting-belief-revision-design.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "구글이 NPU 설계도를 통째로 공개한 이유 — Coral NPU 아키텍처 해부와 2026 엣지 AI 실리콘 지형",
+    "lang": "ko",
+    "keywords": [
+      "Coral NPU",
+      "RISC-V",
+      "오픈소스 실리콘",
+      "엣지 AI",
+      "NPU",
+      "Coralboard",
+      "TinyGemma"
+    ],
+    "filename": "2026-10-08-google-coral-npu-open-risc-v-edge-ai.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
