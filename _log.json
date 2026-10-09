@@ -1718,5 +1718,21 @@
     "filename": "2026-10-08-google-coral-npu-open-risc-v-edge-ai.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-09",
+    "title": "구글·JP모건·프랑스 정부가 같은 실수를 했다 — MCP SSRF '프로토콜 피벗팅' 해부와 방어 코드",
+    "lang": "ko",
+    "keywords": [
+      "MCP 보안",
+      "SSRF",
+      "protocol pivoting",
+      "Model Context Protocol",
+      "AI 에이전트 보안",
+      "CVE-2026-14540"
+    ],
+    "filename": "2026-10-09-mcp-ssrf-protocol-pivoting-defense-code.md",
+    "word_count": 5400,
+    "quality_score": "pass"
   }
 ]
