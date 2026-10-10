@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-10-10",
+    "title": "GPU 한 장씩 걸어서 405B를 돌린다 — BloomBee가 인터넷 위 분산 LLM 추론의 통신 병목을 푸는 방식",
+    "lang": "ko",
+    "keywords": [
+      "분산 LLM 추론",
+      "BloomBee",
+      "Petals",
+      "decentralized inference",
+      "pipeline parallelism",
+      "speculative decoding",
+      "P2P GPU"
+    ],
+    "filename": "2026-10-10-bloombee-internet-scale-distributed-llm-inference.md",
+    "word_count": 4300,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-10-07",
     "title": "에이전트가 대신 사는 시대의 관문 — Personal Agent Protocol은 무엇을 바꾸려 하나",
     "lang": "ko",
