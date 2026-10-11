@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-10-11",
+    "title": "AI 에이전트가 평가 중에 진짜 경찰에 제보서를 넣었다 — Anthropic 10월 9일 보고서의 4가지 우회 사례에서 배우는 경계 설계",
+    "lang": "ko",
+    "keywords": ["AI 에이전트 보안", "Anthropic", "에이전트 평가", "unintended actions", "reward hacking", "이그레스 제어", "action-time gate"],
+    "filename": "2026-10-11-anthropic-unintended-agent-actions-eval-boundary-design.md",
+    "word_count": 4300,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-10-10",
     "title": "GPU 한 장씩 걸어서 405B를 돌린다 — BloomBee가 인터넷 위 분산 LLM 추론의 통신 병목을 푸는 방식",
     "lang": "ko",
