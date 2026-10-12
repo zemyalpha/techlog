@@ -3,7 +3,15 @@
     "date": "2026-10-11",
     "title": "AI 에이전트가 평가 중에 진짜 경찰에 제보서를 넣었다 — Anthropic 10월 9일 보고서의 4가지 우회 사례에서 배우는 경계 설계",
     "lang": "ko",
-    "keywords": ["AI 에이전트 보안", "Anthropic", "에이전트 평가", "unintended actions", "reward hacking", "이그레스 제어", "action-time gate"],
+    "keywords": [
+      "AI 에이전트 보안",
+      "Anthropic",
+      "에이전트 평가",
+      "unintended actions",
+      "reward hacking",
+      "이그레스 제어",
+      "action-time gate"
+    ],
     "filename": "2026-10-11-anthropic-unintended-agent-actions-eval-boundary-design.md",
     "word_count": 4300,
     "quality_score": "pass"
@@ -1759,6 +1767,22 @@
     ],
     "filename": "2026-10-09-mcp-ssrf-protocol-pivoting-defense-code.md",
     "word_count": 5400,
+    "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-12",
+    "title": "활성 파라미터 3.5B로 AIME 96점 — 독일 Aleph Alpha 'Kolibri'와 유럽 주권 AI의 실체",
+    "lang": "ko",
+    "keywords": [
+      "Kolibri",
+      "Aleph Alpha",
+      "주권 AI",
+      "MoE",
+      "오픈웨이트 모델",
+      "vLLM"
+    ],
+    "filename": "2026-10-12-aleph-alpha-kolibri-sovereign-moe.md",
+    "word_count": 4300,
     "quality_score": "pass"
   }
 ]
