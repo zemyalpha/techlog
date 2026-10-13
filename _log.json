@@ -1784,5 +1784,22 @@
     "filename": "2026-10-12-aleph-alpha-kolibri-sovereign-moe.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "RAM 32GB 노트북에서 80B 모델을 돌리는 법 — Janas의 SSD 엑스퍼트 스트리밍과 Intel GPU D270이 무너뜨리는 메모리 월",
+    "lang": "ko",
+    "keywords": [
+      "로컬 LLM",
+      "Janas",
+      "MoE",
+      "SSD 스트리밍",
+      "Intel GPU D270",
+      "메모리 월",
+      "llama.cpp"
+    ],
+    "filename": "2026-10-13-llm-memory-wall-janas-ssd-streaming-intel-gpu-d270.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
