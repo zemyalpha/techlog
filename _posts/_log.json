@@ -868,5 +868,21 @@
     "filename": "2026-09-23-mcp-security-2026-cve-attack-vectors-defense.md",
     "word_count": 14919,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "도구 30개가 에이전트를 멍청하게 만든다 — MCP 툴 정의의 토큰 세금과 이를 없애는 두 가지 패턴",
+    "lang": "ko",
+    "keywords": [
+      "MCP",
+      "tool search",
+      "defer_loading",
+      "progressive disclosure",
+      "context engineering",
+      "AI 에이전트"
+    ],
+    "filename": "2026-10-14-mcp-tool-overload-token-tax-progressive-disclosure.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
