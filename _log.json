@@ -1801,5 +1801,37 @@
     "filename": "2026-10-13-llm-memory-wall-janas-ssd-streaming-intel-gpu-d270.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "MCP 서버 도구 과부하와 토큰 세금 — 프로그레시브 디스클로저로 풀기",
+    "lang": "ko",
+    "keywords": [
+      "MCP",
+      "토큰 세금",
+      "progressive disclosure",
+      "tool overload",
+      "에이전트 도구 설계"
+    ],
+    "filename": "2026-10-14-mcp-tool-overload-token-tax-progressive-disclosure.md",
+    "word_count": 4256,
+    "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "에이전트 프레임워크는 권한 변경을 기록하지 않는다 — Partnership on AI가 밝힌 6개 텔레메트리 구멍과 OTel로 막는 법",
+    "lang": "ko",
+    "keywords": [
+      "에이전트 관측성",
+      "AI 에이전트 보안",
+      "OpenTelemetry",
+      "Partnership on AI",
+      "텔레메트리",
+      "Claude Agent SDK",
+      "agent observability"
+    ],
+    "filename": "2026-10-15-agent-observability-gap-pai-telemetry-otel.md",
+    "word_count": 4731,
+    "quality_score": "pass"
   }
 ]
