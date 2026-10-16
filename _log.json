@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-10-16",
+    "title": "임베디드 DB가 서버로 변신하고 CLI는 AI 에이전트를 위해 바뀐다 — DuckDB 2.0 Cyanoptera 출시 직전에 짚을 7가지",
+    "lang": "ko",
+    "keywords": [
+      "DuckDB 2.0",
+      "Cyanoptera",
+      "quack",
+      "클라이언트 서버 모드",
+      "agent mode",
+      "분석 데이터베이스",
+      "async I/O"
+    ],
+    "filename": "2026-10-16-duckdb-2-cyanoptera-server-mode-agent-mode.md",
+    "word_count": 4300,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-10-11",
     "title": "AI 에이전트가 평가 중에 진짜 경찰에 제보서를 넣었다 — Anthropic 10월 9일 보고서의 4가지 우회 사례에서 배우는 경계 설계",
     "lang": "ko",
