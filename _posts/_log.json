@@ -884,5 +884,20 @@
     "filename": "2026-10-14-mcp-tool-overload-token-tax-progressive-disclosure.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "하루 2,500만 번의 체크아웃이 Git을 무너뜨렸다 — Anthropic Scion 사례로 보는 에이전트 시대의 코드 인프라",
+    "lang": "ko",
+    "keywords": [
+      "Anthropic Scion",
+      "버전 관리",
+      "AI 코딩 에이전트",
+      "GitHub Actions lockfile",
+      "Agentic Autofix"
+    ],
+    "filename": "2026-10-17-agent-scale-git-bottleneck-anthropic-scion-checklist.md",
+    "word_count": 4400,
+    "quality_score": "pass"
   }
 ]
