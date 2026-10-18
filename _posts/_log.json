@@ -899,5 +899,22 @@
     "filename": "2026-10-17-agent-scale-git-bottleneck-anthropic-scion-checklist.md",
     "word_count": 4400,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "SQLite는 진실을 맡고 ZVec은 속도를 맡는다 — 알리바이 임베디드 벡터 DB 실전 해부",
+    "lang": "ko",
+    "keywords": [
+      "ZVec",
+      "알리바이",
+      "임베디드 벡터 데이터베이스",
+      "로컬 RAG",
+      "HNSW",
+      "VectorDBBench",
+      "에이전트 메모리"
+    ],
+    "filename": "2026-10-18-alibaba-zvec-in-process-vector-database.md",
+    "word_count": 6800,
+    "quality_score": "pass"
   }
 ]
