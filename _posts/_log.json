@@ -916,5 +916,21 @@
     "filename": "2026-10-18-alibaba-zvec-in-process-vector-database.md",
     "word_count": 6800,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "한국어 오픈소스 TTS의 기준이 바뀌었다 — Qwen3-TTS 12Hz 실전 가이드와 Voxtral TTS 비교",
+    "lang": "ko",
+    "keywords": [
+      "Qwen3-TTS",
+      "오픈소스 TTS",
+      "한국어 TTS",
+      "Voxtral TTS",
+      "보이스 클로닝",
+      "음성 합성"
+    ],
+    "filename": "2026-10-19-qwen3-tts-korean-opensource-tts-voxtral-comparison.md",
+    "word_count": 4200,
+    "quality_score": "pass"
   }
 ]
