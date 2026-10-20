@@ -1850,5 +1850,21 @@
     "filename": "2026-10-15-agent-observability-gap-pai-telemetry-otel.md",
     "word_count": 4731,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Text-to-SQL 83%의 함정 — 리더보드 점수가 프로덕션에서 21%로 무너지는 이유",
+    "lang": "ko",
+    "keywords": [
+      "Text-to-SQL",
+      "BIRD 벤치마크",
+      "Spider 2.0",
+      "SQL 에이전트",
+      "sqlglot",
+      "스키마 링킹"
+    ],
+    "filename": "2026-10-20-text-to-sql-benchmark-cliff-production-pipeline.md",
+    "word_count": 6631,
+    "quality_score": "pass"
   }
 ]
