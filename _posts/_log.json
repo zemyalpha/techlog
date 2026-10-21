@@ -1,936 +1,951 @@
 [
-  {
-    "date": "2026-09-29",
-    "title": "음성 AI 에이전트의 두 갈래 길: STT-LLM-TTS 파이프라인 vs Speech-to-Speech 아키텍처",
-    "lang": "ko",
-    "keywords": [
-      "음성 AI 에이전트",
-      "speech to speech",
-      "Realtime API",
-      "STT LLM TTS 파이프라인",
-      "voice agent 아키텍처"
-    ],
-    "filename": "2026-09-29-voice-agent-s2s-vs-pipeline-architecture.md",
-    "word_count": 4800,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-09-06",
-    "title": "정답만 확인하면 학습이 된다: RLVR과 GRPO로 추론 모델을 훈련하는 원리와 실전",
-    "lang": "ko",
-    "keywords": [
-      "RLVR",
-      "GRPO",
-      "강화학습",
-      "추론 모델",
-      "DeepSeek-R1"
-    ],
-    "filename": "2026-09-06-rlvr-grpo-reasoning-model-training-guide.md",
-    "word_count": 4300,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-08-31",
-    "title": "LLM API 비용을 구조적으로 줄이는 두 축: 프롬프트 캐싱과 모델 라우팅 실전 가이드",
-    "lang": "ko",
-    "keywords": [
-      "프롬프트 캐싱",
-      "prompt caching",
-      "모델 라우팅",
-      "RouteLLM",
-      "LLM 비용 최적화",
-      "KV cache"
-    ],
-    "filename": "2026-08-31-llm-cost-optimization-prompt-caching-model-routing.md",
-    "word_count": 5200,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-08-26",
-    "title": "AI 에이전트 메모리 설계: Mem0·Letta·Zep(Graphiti) 아키텍처 비교와 선택 기준",
-    "lang": "ko",
-    "keywords": [
-      "AI 에이전트 메모리",
-      "Mem0",
-      "Letta",
-      "Zep",
-      "LongMemEval"
-    ],
-    "filename": "2026-08-26-agent-memory-architecture-mem0-letta-zep-selection-guide.md",
-    "word_count": 3692,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-08-08",
-    "title": "LLM JSON 실패를 0%로: Constrained Decoding 엔진 비교와 실전 적용 가이드",
-    "lang": "ko",
-    "keywords": [
-      "constrained decoding",
-      "structured output",
-      "XGrammar",
-      "Outlines",
-      "llguidance",
-      "JSON Schema"
-    ],
-    "filename": "2026-08-08-llm-structured-output-constrained-decoding-xgrammar-outlines-llguidance.md",
-    "word_count": 3500,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-08-07",
-    "title": "HTTP 200이지만 에이전트는 망가졌다: 조용한 실패를 잡는 멱등성과 의미 기반 회로 차단기",
-    "lang": "ko",
-    "keywords": [
-      "AI 에이전트 신뢰성",
-      "silent failure",
-      "멱등성",
-      "circuit breaker",
-      "tool call reliability"
-    ],
-    "filename": "2026-08-07-ai-agent-silent-failure-idempotency-semantic-circuit-breaker.md",
-    "word_count": 2600,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-07-24",
-    "title": "읽기·쓰기 MCP와 x402 결제를 분리해야 하는 이유",
-    "lang": "ko",
-    "keywords": [
-      "MCP",
-      "x402",
-      "Quote-to-Cash",
-      "AI 에이전트",
-      "agentic commerce"
-    ],
-    "filename": "2026-07-24-read-write-mcp-x402-payment-separation.md",
-    "word_count": 743,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-07-19",
-    "title": "AI 에이전트 트래픽을 인증해야 하는 이유: WBA와 MCP 보안",
-    "lang": "ko",
-    "keywords": [
-      "AI 에이전트",
-      "AWS WAF",
-      "Web Bot Authentication",
-      "MCP",
-      "prompt injection"
-    ],
-    "filename": "2026-07-19-ai-agent-traffic-authentication-wba-mcp-security.md",
-    "word_count": 2100,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-07-14",
-    "title": "온디바이스 LLM이 서버를 대체할 수 있는가: Gemma 4·MLX M5·NPU 가속의 현실적 한계와 가능",
-    "lang": "ko",
-    "keywords": [
-      "온디바이스 LLM",
-      "Gemma 4",
-      "Gemini Nano",
-      "Apple MLX",
-      "NPU 가속",
-      "edge inference"
-    ],
-    "filename": "2026-07-14-on-device-llm-inference-gemma4-mlx-m5-npu-acceleration.md",
-    "word_count": 2800,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-07-06",
-    "title": "LLM 추론 속도를 2~6배 올리는 추측 디코딩: EAGLE-3, Medusa, vLLM 실전 가이드",
-    "lang": "ko",
-    "keywords": [
-      "추측 디코딩",
-      "speculative decoding",
-      "EAGLE-3",
-      "Medusa",
-      "vLLM",
-      "LLM 추론 최적화"
-    ],
-    "filename": "2026-07-06-speculative-decoding-llm-inference-speedup-eagle-medusa-vllm.md",
-    "word_count": 2400,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-07-01",
-    "title": "코딩 에이전트 성능평가, SWE-bench만 보면 놓치는 3가지",
-    "lang": "ko",
-    "keywords": [
-      "코딩 에이전트",
-      "SWE-bench",
-      "DeepSWE",
-      "벤치마크",
-      "소프트웨어 엔지니어링"
-    ],
-    "filename": "2026-07-01-coding-agent-eval-triad-swe-bench-deepswe-smoke-tests.md",
-    "word_count": 726,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-29",
-    "title": "AI 기능은 모델보다 실패 처리가 먼저다: 429·fallback·관측성 설계",
-    "lang": "ko",
-    "keywords": [
-      "rate limits",
-      "fallback",
-      "observability",
-      "AI Gateway",
-      "OpenAI"
-    ],
-    "filename": "2026-06-29-ai-rate-limit-fallback-observability.md",
-    "word_count": 534,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-28",
-    "title": "Gemini Interactions API와 x402로 보는 AI 에이전트의 상태·배포·결제 분리",
-    "lang": "ko",
-    "keywords": [
-      "Gemini Interactions API",
-      "temporary accounts",
-      "x402",
-      "pay-per-crawl",
-      "AI 에이전트"
-    ],
-    "filename": "2026-06-28-gemini-interactions-api-x402-temporary-accounts.md",
-    "word_count": 637,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-26",
-    "title": "MCP는 연결, Playwright는 검증: 코딩 에이전트의 프로덕션 분리 설계",
-    "lang": "ko",
-    "keywords": [
-      "코딩 에이전트",
-      "MCP",
-      "Playwright MCP",
-      "브라우저 검증",
-      "Google Cloud"
-    ],
-    "filename": "2026-06-26-mcp-playwright-verification-separation.md",
-    "word_count": 678,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-21",
-    "title": "MCP Registry와 /chronicle가 바꾸는 에이전트 운영 방식",
-    "lang": "ko",
-    "keywords": [
-      "MCP Registry",
-      "/chronicle",
-      "Playwright MCP",
-      "agent operations",
-      "browser verification"
-    ],
-    "filename": "2026-06-21-mcp-registry-chronicle-agent-ops.md",
-    "word_count": 614,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-20",
-    "title": "세션 로그와 브라우저 증거로 에이전트를 검증하는 법",
-    "lang": "ko",
-    "keywords": [
-      "GitHub Copilot app",
-      "/chronicle",
-      "Playwright MCP",
-      "worktree",
-      "browser verification"
-    ],
-    "filename": "2026-06-20-github-copilot-chronicle-playwright-mcp.md",
-    "word_count": 468,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-19",
-    "title": "세션이 제품이 됐다: GitHub Copilot 앱과 /chronicle가 바꾸는 코딩 에이전트 운영",
-    "lang": "ko",
-    "keywords": [
-      "GitHub Copilot app",
-      "/chronicle",
-      "agent sessions",
-      "Copilot CLI",
-      "session-driven workflow"
-    ],
-    "filename": "2026-06-19-session-driven-agent-ops-github-copilot-chronicle.md",
-    "word_count": 537,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-15",
-    "title": "GitHub agent sessions가 중요한 이유: 코딩 에이전트는 이제 로그가 제품이다",
-    "lang": "ko",
-    "keywords": [
-      "GitHub Copilot",
-      "agent sessions",
-      "/chronicle",
-      "GitHub Agentic Workflows",
-      "OpenAI Codex"
-    ],
-    "filename": "2026-06-15-github-agent-sessions-log-product.md",
-    "word_count": 566,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-14",
-    "title": "Codex의 Ona 인수가 말해주는 것: 에이전트는 클라우드 작업공간이 필요하다",
-    "lang": "ko",
-    "keywords": [
-      "OpenAI Codex",
-      "Ona",
-      "GitHub Copilot",
-      "Claude Code",
-      "MCP"
-    ],
-    "filename": "2026-06-14-codex-ona-cloud-workspace.md",
-    "word_count": 644,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-12",
-    "title": "2026년 코딩 에이전트는 모델보다 라우팅이 중요하다",
-    "lang": "ko",
-    "keywords": [
-      "GitHub Agent HQ",
-      "Claude Code",
-      "OpenAI Codex",
-      "MCP",
-      "agent routing"
-    ],
-    "filename": "2026-06-12-agent-routing-over-models.md",
-    "word_count": 575,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-11",
-    "title": "에이전트는 이제 IDE가 아니라 데스크톱 관제판에서 움직인다",
-    "lang": "ko",
-    "keywords": [
-      "GitHub Copilot app",
-      "OpenAI background mode",
-      "Claude Code",
-      "MCP Registry",
-      "AI agents"
-    ],
-    "filename": "2026-06-11-agent-control-plane-desktop-workflow.md",
-    "word_count": 668,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-10",
-    "title": "코딩 에이전트의 경쟁력은 모델보다 패키징에 있다",
-    "lang": "ko",
-    "keywords": [
-      "GitHub Agentic Workflows",
-      "Claude Code",
-      "subagents",
-      "skills",
-      "GitHub Actions"
-    ],
-    "filename": "2026-06-10-coding-agents-packaging-over-models.md",
-    "word_count": 583,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-08",
-    "title": "AI 코딩 에이전트는 왜 스펙부터 써야 하나",
-    "lang": "ko",
-    "keywords": [
-      "spec-driven development",
-      "GitHub Spec Kit",
-      "prompt injection",
-      "Claude Code",
-      "AI coding agents"
-    ],
-    "filename": "2026-06-08-spec-before-execution-ai-coding-agents.md",
-    "word_count": 717,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-07",
-    "title": "왜 MCP Registry와 Windows ODR가 중요한가: 에이전트 도구가 '발견 가능한 인프라'가 되는 순간",
-    "lang": "ko",
-    "keywords": [
-      "MCP Registry",
-      "Windows ODR",
-      "Model Context Protocol",
-      "mcp-publisher",
-      "agent connectors"
-    ],
-    "filename": "2026-06-07-mcp-registry-windows-odr-agent-discovery.md",
-    "word_count": 584,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-06",
-    "title": "Agent skills는 지식, sandbox는 실행: GitHub Copilot과 Claude Code를 같이 쓰는 법",
-    "lang": "ko",
-    "keywords": [
-      "agent skills",
-      "Claude Code sandbox",
-      "GitHub Copilot",
-      "gh skill",
-      "AI coding agents"
-    ],
-    "filename": "2026-06-06-agent-skills-sandbox-github-copilot-claude-code.md",
-    "word_count": 573,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-05",
-    "title": "에이전트가 멈추지 않게 하려면: 백그라운드 실행, 샌드박스, MCP 레지스트리를 분리하라",
-    "lang": "ko",
-    "keywords": [
-      "OpenAI Background mode",
-      "Claude sandbox",
-      "MCP Registry",
-      "에이전트 아키텍처",
-      "비동기 실행"
-    ],
-    "filename": "2026-06-05-background-mode-sandbox-mcp-registry.md",
-    "word_count": 732,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-04",
-    "title": "Agent skills는 지식, sandboxes는 실행: GitHub Copilot를 안전하게 굴리는 법",
-    "lang": "ko",
-    "keywords": [
-      "GitHub Copilot",
-      "agent skills",
-      "sandboxes",
-      "gh skill",
-      "AI security"
-    ],
-    "filename": "2026-06-04-github-copilot-agent-skills-sandboxes-safe-execution.md",
-    "word_count": 642,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-02",
-    "title": "챗보다 작업공간이 중요한 이유: GitHub Copilot agent skills와 agentic workflows",
-    "lang": "ko",
-    "keywords": [
-      "GitHub Copilot",
-      "agent skills",
-      "agentic workflows",
-      "GitHub Actions",
-      "AI agents"
-    ],
-    "filename": "2026-06-02-github-copilot-agent-skills-agentic-workflows.md",
-    "word_count": 560,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-01",
-    "title": "GitHub Copilot AI Credits 전환 후 가장 먼저 할 일: 모델별 비용과 예산선 정하기",
-    "lang": "ko",
-    "keywords": [
-      "GitHub Copilot",
-      "AI Credits",
-      "usage-based billing",
-      "비용 관리",
-      "agentic workflows"
-    ],
-    "filename": "2026-06-01-github-copilot-ai-credits-cost-control.md",
-    "word_count": 660,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-31",
-    "title": "에이전트 코딩은 왜 채팅보다 워크플로우가 중요해졌나",
-    "lang": "ko",
-    "keywords": [
-      "에이전트 코딩",
-      "GitHub Agentic Workflows",
-      "Claude Managed Agents",
-      "OpenAI Codex",
-      "워크플로우"
-    ],
-    "filename": "2026-05-31-agentic-coding-workflow-over-chat.md",
-    "word_count": 853,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-30",
-    "title": "Claude Code와 Playwright MCP를 같이 쓰는 이유: 코드 수정과 브라우저 검증 분리하기",
-    "lang": "ko",
-    "keywords": [
-      "Claude Code",
-      "Playwright MCP",
-      "MCP Registry",
-      "브라우저 검증",
-      "AI 에이전트"
-    ],
-    "filename": "2026-05-30-claude-code-playwright-mcp-browser-verification.md",
-    "word_count": 662,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-26",
-    "title": "MCP는 도구, A2A는 협업: 에이전트 아키텍처를 나누는 법",
-    "lang": "ko",
-    "keywords": [
-      "MCP",
-      "A2A",
-      "Background mode",
-      "에이전트 아키텍처",
-      "LLM 워크플로우"
-    ],
-    "filename": "2026-05-26-mcp-a2a-background-mode-agent-architecture.md",
-    "word_count": 3912,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-10",
-    "title": "프롬프트 엔지니어링은 끝났다 — 컨텍스트 엔지니어링이 AI 에이전트의 새로운 패러다임이다",
-    "lang": "ko",
-    "keywords": [
-      "컨텍스트 엔지니어링",
-      "AI 에이전트",
-      "프롬프트 엔지니어링",
-      "LLM",
-      "context management"
-    ],
-    "filename": "2026-05-10-context-engineering-beyond-prompt-engineering.md",
-    "word_count": 12639,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-07",
-    "title": "RAG 검색 실패 40%를 줄이는 하이브리드 서치와 리랭킹 실전 가이드",
-    "lang": "ko",
-    "keywords": [
-      "RAG",
-      "하이브리드 서치",
-      "BM25",
-      "리랭킹",
-      "벡터 데이터베이스",
-      "pgvector"
-    ],
-    "filename": "2026-05-07-rag-hybrid-search-reranking-guide.md",
-    "word_count": 8720,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-05",
-    "title": "WebAssembly와 WebGPU로 브라우저 위에서 AI 추론하기",
-    "lang": "ko",
-    "keywords": [
-      "WebAssembly",
-      "WebGPU",
-      "브라우저 AI",
-      "ONNX Runtime",
-      "웹 머신러닝"
-    ],
-    "filename": "2026-05-05-webassembly-webgpu-browser-ai-inference.md",
-    "word_count": 4500,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-05",
-    "title": "LLM 장기 기억과 지식 그래프: AI 에이전트의 맥락 유지 생태계",
-    "lang": "ko",
-    "keywords": [
-      "LLM 메모리",
-      "지식 그래프",
-      "AI 에이전트",
-      "장기 기억",
-      "RAG"
-    ],
-    "filename": "2026-05-05-llm-memory-knowledge-graph-ecosystem.md",
-    "word_count": 4200,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-04",
-    "title": "2026년 오픈소스 LLM 비교 가이드: Llama, Mistral, Qwen, Gemma",
-    "lang": "ko",
-    "keywords": [
-      "오픈소스 LLM",
-      "Llama",
-      "Mistral",
-      "Qwen",
-      "Gemma"
-    ],
-    "filename": "2026-05-04-opensource-llm-comparison-guide-2026.md",
-    "word_count": 3800,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-03",
-    "title": "로컬 LLM 배포 실전 가이드: Ollama, vLLM, llama.cpp 비교",
-    "lang": "ko",
-    "keywords": [
-      "로컬 LLM",
-      "Ollama",
-      "vLLM",
-      "llama.cpp",
-      "모델 배포"
-    ],
-    "filename": "2026-05-03-local-llm-deployment-practical-guide.md",
-    "word_count": 3600,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-02",
-    "title": "LLM 구조화 출력 실전 가이드: 더 이상 정규식으로 JSON 파싱하지 마라",
-    "lang": "ko",
-    "keywords": [
-      "구조화 출력",
-      "Structured Output",
-      "JSON Schema",
-      "OpenAI",
-      "Claude",
-      "제약 디코딩"
-    ],
-    "filename": "2026-05-02-llm-structured-output-practical-guide-2026.md",
-    "word_count": 4000,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-01",
-    "title": "2026년 AI 코딩 에이전트 비교: Claude Code vs Cursor vs Copilot, 무엇이 다른가",
-    "lang": "ko",
-    "keywords": [
-      "AI 코딩",
-      "Claude Code",
-      "Cursor",
-      "GitHub Copilot",
-      "개발도구"
-    ],
-    "filename": "2026-05-01-ai-coding-agents-comparison-2026.md",
-    "word_count": 3500,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-04-28",
-    "title": "2026년 개발자 실전 세팅: GitHub Agentic Workflows로 AI 코딩 도구를 CI/CD에 연동하는 법",
-    "lang": "ko",
-    "keywords": [
-      "GitHub Actions",
-      "Agentic Workflows",
-      "CI/CD",
-      "AI 코딩 도구",
-      "DevOps 자동화"
-    ],
-    "filename": "2026-04-28-github-agentic-workflows-ai-coding-setup-2026.md",
-    "word_count": 6000,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-04-27",
-    "title": "MCP 서버 30분 만에 만들기: Claude Code와 연동하는 나만의 AI 도구",
-    "lang": "ko",
-    "keywords": [
-      "MCP",
-      "Model Context Protocol",
-      "Claude Code",
-      "FastMCP",
-      "AI 도구"
-    ],
-    "filename": "2026-04-27-mcp-server-tutorial-30min.md",
-    "word_count": 5500,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-08",
-    "title": "AI 에이전트가 왜 그런 대답을 했는지 추적하는 법: Langfuse와 OpenTelemetry로 옵저버빌리티 구축하기",
-    "lang": "ko",
-    "keywords": [
-      "AI 에이전트",
-      "옵저버빌리티",
-      "Langfuse",
-      "OpenTelemetry",
-      "트레이싱",
-      "LLM 디버깅"
-    ],
-    "filename": "2026-05-08-ai-agent-observability-langfuse-opentelemetry.md",
-    "word_count": 2839,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-16",
-    "title": "2026년 AI 트렌드 분석: H200/B200 GPU, 음성 클로닝, LLM 벤치마크",
-    "lang": "ko",
-    "keywords": [
-      "AI 트렌드",
-      "GPU",
-      "음성 클로닝",
-      "LLM 벤치마크"
-    ],
-    "filename": "2026-05-16-ai-trends-analysis-h200-b200-voice-cloning-llm-benchmarks.md",
-    "word_count": 9897,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-17",
-    "title": "AI 에이전트 메모리 관리와 SWE-bench 코드 리뷰 벤치마크 실전 분석",
-    "lang": "ko",
-    "keywords": [
-      "AI 에이전트",
-      "메모리 관리",
-      "SWE-bench",
-      "코드 리뷰"
-    ],
-    "filename": "2026-05-17-ai-agent-memory-swe-bench.md",
-    "word_count": 8639,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-18",
-    "title": "Python 코드에서 자주 발생하는 보안 취약점과 실전 대응 전략",
-    "lang": "ko",
-    "keywords": [
-      "Python",
-      "보안",
-      "취약점",
-      "SQL 인젝션",
-      "CSRF"
-    ],
-    "filename": "2026-05-18-python-security.md",
-    "word_count": 6829,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-19",
-    "title": "2026년 프롬프트 인젝션 방어 실전 가이드 — 8가지 기법 비교와 레이어드 아키텍처",
-    "lang": "ko",
-    "keywords": [
-      "프롬프트 인젝션",
-      "LLM 보안",
-      "AI 에이전트 보안",
-      "PromptGuard",
-      "PromptArmor",
-      "OWASP LLM Top 10"
-    ],
-    "filename": "2026-05-19-prompt-injection-defense-guide.md",
-    "word_count": 10248,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-20",
-    "title": "벡터 데이터베이스 선택 가이드 2026 — Pinecone vs Weaviate vs Qdrant vs Milvus 실전 비교",
-    "lang": "ko",
-    "keywords": [
-      "벡터 데이터베이스",
-      "Pinecone",
-      "Weaviate",
-      "Qdrant",
-      "Milvus",
-      "임베딩 검색",
-      "HNSW",
-      "RAG"
-    ],
-    "filename": "2026-05-20-vector-database-comparison-guide.md",
-    "word_count": 8644,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-05-28",
-    "title": "GitHub Agentic Workflows와 Anthropic 리포트로 본 2026 코딩 팀 운영법",
-    "lang": "ko",
-    "keywords": [
-      "GitHub Agentic Workflows",
-      "Anthropic",
-      "agentic coding",
-      "GitHub Actions",
-      "코딩 에이전트"
-    ],
-    "filename": "2026-05-28-github-agentic-workflows-anthropic-coding-team.md",
-    "word_count": 3715,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-13",
-    "title": "GPT-5.3-Codex-Spark가 보여준 코딩 에이전트의 새 기준",
-    "lang": "ko",
-    "keywords": [
-      "GPT-5.3-Codex-Spark",
-      "Codex app",
-      "GitHub Copilot",
-      "Visual Studio Code",
-      "에이전트 워크플로우"
-    ],
-    "filename": "2026-06-13-gpt-53-codex-spark-coding-agent-new-standard.md",
-    "word_count": 653,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-06-16",
-    "title": "MCP Registry·Chronicle·Playwright MCP로 만드는 디버그 가능한 에이전트 스택",
-    "lang": "ko",
-    "keywords": [
-      "MCP Registry",
-      "Chronicle",
-      "Playwright MCP",
-      "agent stack",
-      "observability"
-    ],
-    "filename": "2026-06-16-mcp-registry-chronicle-playwright-mcp-agent-stack.md",
-    "word_count": 584,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-07-12",
-    "title": "MCP 2026-07-28 스펙이 바꾸는 것: 세션리스 프로토콜과 OAuth 2.1 리소스 서버",
-    "lang": "ko",
-    "keywords": [
-      "MCP",
-      "Model Context Protocol",
-      "OAuth 2.1",
-      "stateless protocol",
-      "AI agent authentication"
-    ],
-    "filename": "2026-07-12-mcp-2026-07-28-spec-stateless-oauth2-resource-server.md",
-    "word_count": 3200,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-08-09",
-    "title": "RAG 임베딩 모델 선택 가이드 2026 — MTEB 리더보드 해석부터 Matryoshka 차원 축소까지",
-    "lang": "ko",
-    "keywords": [
-      "임베딩 모델",
-      "RAG",
-      "MTEB",
-      "Matryoshka",
-      "Qwen3-Embedding",
-      "벡터 검색",
-      "BGE-M3",
-      "NV-Embed-v2"
-    ],
-    "filename": "2026-08-09-rag-embedding-model-selection-guide-mteb-matryoshka-2026.md",
-    "word_count": 4500,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-08-15",
-    "title": "A2A 프로토콜 1.0 실전 가이드 — 서로 다른 AI 에이전트를 연결하는 표준 기술",
-    "lang": "ko",
-    "keywords": [
-      "A2A 프로토콜",
-      "Agent2Agent",
-      "AI 에이전트",
-      "MCP",
-      "Agent Card",
-      "에이전트 상호운용성"
-    ],
-    "filename": "2026-08-15-a2a-protocol-1-practical-guide-agent-card-task-lifecycle.md",
-    "word_count": 3600,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-08-25",
-    "title": "SKILL.md 하나로 에이전트를 가르치는 시대: Agent Skills 오픈 표준 실전 가이드",
-    "lang": "ko",
-    "keywords": [
-      "Agent Skills",
-      "SKILL.md",
-      "Claude Code",
-      "Codex",
-      "오픈 표준"
-    ],
-    "filename": "2026-08-25-agent-skills-skill-md-open-standard-portable-guide.md",
-    "word_count": 2382,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-09-01",
-    "title": "AI 에이전트 evals 설계의 실전: 그레이더 3종, pass@k과 pass^k, 그리고 20~50개 태스크로 시작하는 방법",
-    "lang": "ko",
-    "keywords": [
-      "AI 에이전트",
-      "evals",
-      "LLM-as-judge",
-      "pass@k",
-      "SWE-bench",
-      "ASSERT"
-    ],
-    "filename": "2026-09-01-agent-evals-design-graders-pass-at-k-practical-guide.md",
-    "word_count": 4200,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-09-23",
-    "title": "MCP 서버 20만 대가 한 줄짜리 설계 결함에 노출된 이유 — 2026년 MCP 보안 사건들로 배우는 방어 체크리스트",
-    "lang": "ko",
-    "keywords": [
-      "MCP 보안",
-      "Model Context Protocol",
-      "툴 포이즈닝",
-      "프롬프트 인젝션",
-      "DuneSlide",
-      "CVE-2026-50548"
-    ],
-    "filename": "2026-09-23-mcp-security-2026-cve-attack-vectors-defense.md",
-    "word_count": 14919,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-10-14",
-    "title": "도구 30개가 에이전트를 멍청하게 만든다 — MCP 툴 정의의 토큰 세금과 이를 없애는 두 가지 패턴",
-    "lang": "ko",
-    "keywords": [
-      "MCP",
-      "tool search",
-      "defer_loading",
-      "progressive disclosure",
-      "context engineering",
-      "AI 에이전트"
-    ],
-    "filename": "2026-10-14-mcp-tool-overload-token-tax-progressive-disclosure.md",
-    "word_count": 4300,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-10-17",
-    "title": "하루 2,500만 번의 체크아웃이 Git을 무너뜨렸다 — Anthropic Scion 사례로 보는 에이전트 시대의 코드 인프라",
-    "lang": "ko",
-    "keywords": [
-      "Anthropic Scion",
-      "버전 관리",
-      "AI 코딩 에이전트",
-      "GitHub Actions lockfile",
-      "Agentic Autofix"
-    ],
-    "filename": "2026-10-17-agent-scale-git-bottleneck-anthropic-scion-checklist.md",
-    "word_count": 4400,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-10-18",
-    "title": "SQLite는 진실을 맡고 ZVec은 속도를 맡는다 — 알리바이 임베디드 벡터 DB 실전 해부",
-    "lang": "ko",
-    "keywords": [
-      "ZVec",
-      "알리바이",
-      "임베디드 벡터 데이터베이스",
-      "로컬 RAG",
-      "HNSW",
-      "VectorDBBench",
-      "에이전트 메모리"
-    ],
-    "filename": "2026-10-18-alibaba-zvec-in-process-vector-database.md",
-    "word_count": 6800,
-    "quality_score": "pass"
-  },
-  {
-    "date": "2026-10-19",
-    "title": "한국어 오픈소스 TTS의 기준이 바뀌었다 — Qwen3-TTS 12Hz 실전 가이드와 Voxtral TTS 비교",
-    "lang": "ko",
-    "keywords": [
-      "Qwen3-TTS",
-      "오픈소스 TTS",
-      "한국어 TTS",
-      "Voxtral TTS",
-      "보이스 클로닝",
-      "음성 합성"
-    ],
-    "filename": "2026-10-19-qwen3-tts-korean-opensource-tts-voxtral-comparison.md",
-    "word_count": 4200,
-    "quality_score": "pass"
-  }
+ {
+  "date": "2026-09-29",
+  "title": "음성 AI 에이전트의 두 갈래 길: STT-LLM-TTS 파이프라인 vs Speech-to-Speech 아키텍처",
+  "lang": "ko",
+  "keywords": [
+   "음성 AI 에이전트",
+   "speech to speech",
+   "Realtime API",
+   "STT LLM TTS 파이프라인",
+   "voice agent 아키텍처"
+  ],
+  "filename": "2026-09-29-voice-agent-s2s-vs-pipeline-architecture.md",
+  "word_count": 4800,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-09-06",
+  "title": "정답만 확인하면 학습이 된다: RLVR과 GRPO로 추론 모델을 훈련하는 원리와 실전",
+  "lang": "ko",
+  "keywords": [
+   "RLVR",
+   "GRPO",
+   "강화학습",
+   "추론 모델",
+   "DeepSeek-R1"
+  ],
+  "filename": "2026-09-06-rlvr-grpo-reasoning-model-training-guide.md",
+  "word_count": 4300,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-08-31",
+  "title": "LLM API 비용을 구조적으로 줄이는 두 축: 프롬프트 캐싱과 모델 라우팅 실전 가이드",
+  "lang": "ko",
+  "keywords": [
+   "프롬프트 캐싱",
+   "prompt caching",
+   "모델 라우팅",
+   "RouteLLM",
+   "LLM 비용 최적화",
+   "KV cache"
+  ],
+  "filename": "2026-08-31-llm-cost-optimization-prompt-caching-model-routing.md",
+  "word_count": 5200,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-08-26",
+  "title": "AI 에이전트 메모리 설계: Mem0·Letta·Zep(Graphiti) 아키텍처 비교와 선택 기준",
+  "lang": "ko",
+  "keywords": [
+   "AI 에이전트 메모리",
+   "Mem0",
+   "Letta",
+   "Zep",
+   "LongMemEval"
+  ],
+  "filename": "2026-08-26-agent-memory-architecture-mem0-letta-zep-selection-guide.md",
+  "word_count": 3692,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-08-08",
+  "title": "LLM JSON 실패를 0%로: Constrained Decoding 엔진 비교와 실전 적용 가이드",
+  "lang": "ko",
+  "keywords": [
+   "constrained decoding",
+   "structured output",
+   "XGrammar",
+   "Outlines",
+   "llguidance",
+   "JSON Schema"
+  ],
+  "filename": "2026-08-08-llm-structured-output-constrained-decoding-xgrammar-outlines-llguidance.md",
+  "word_count": 3500,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-08-07",
+  "title": "HTTP 200이지만 에이전트는 망가졌다: 조용한 실패를 잡는 멱등성과 의미 기반 회로 차단기",
+  "lang": "ko",
+  "keywords": [
+   "AI 에이전트 신뢰성",
+   "silent failure",
+   "멱등성",
+   "circuit breaker",
+   "tool call reliability"
+  ],
+  "filename": "2026-08-07-ai-agent-silent-failure-idempotency-semantic-circuit-breaker.md",
+  "word_count": 2600,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-07-24",
+  "title": "읽기·쓰기 MCP와 x402 결제를 분리해야 하는 이유",
+  "lang": "ko",
+  "keywords": [
+   "MCP",
+   "x402",
+   "Quote-to-Cash",
+   "AI 에이전트",
+   "agentic commerce"
+  ],
+  "filename": "2026-07-24-read-write-mcp-x402-payment-separation.md",
+  "word_count": 743,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-07-19",
+  "title": "AI 에이전트 트래픽을 인증해야 하는 이유: WBA와 MCP 보안",
+  "lang": "ko",
+  "keywords": [
+   "AI 에이전트",
+   "AWS WAF",
+   "Web Bot Authentication",
+   "MCP",
+   "prompt injection"
+  ],
+  "filename": "2026-07-19-ai-agent-traffic-authentication-wba-mcp-security.md",
+  "word_count": 2100,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-07-14",
+  "title": "온디바이스 LLM이 서버를 대체할 수 있는가: Gemma 4·MLX M5·NPU 가속의 현실적 한계와 가능",
+  "lang": "ko",
+  "keywords": [
+   "온디바이스 LLM",
+   "Gemma 4",
+   "Gemini Nano",
+   "Apple MLX",
+   "NPU 가속",
+   "edge inference"
+  ],
+  "filename": "2026-07-14-on-device-llm-inference-gemma4-mlx-m5-npu-acceleration.md",
+  "word_count": 2800,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-07-06",
+  "title": "LLM 추론 속도를 2~6배 올리는 추측 디코딩: EAGLE-3, Medusa, vLLM 실전 가이드",
+  "lang": "ko",
+  "keywords": [
+   "추측 디코딩",
+   "speculative decoding",
+   "EAGLE-3",
+   "Medusa",
+   "vLLM",
+   "LLM 추론 최적화"
+  ],
+  "filename": "2026-07-06-speculative-decoding-llm-inference-speedup-eagle-medusa-vllm.md",
+  "word_count": 2400,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-07-01",
+  "title": "코딩 에이전트 성능평가, SWE-bench만 보면 놓치는 3가지",
+  "lang": "ko",
+  "keywords": [
+   "코딩 에이전트",
+   "SWE-bench",
+   "DeepSWE",
+   "벤치마크",
+   "소프트웨어 엔지니어링"
+  ],
+  "filename": "2026-07-01-coding-agent-eval-triad-swe-bench-deepswe-smoke-tests.md",
+  "word_count": 726,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-29",
+  "title": "AI 기능은 모델보다 실패 처리가 먼저다: 429·fallback·관측성 설계",
+  "lang": "ko",
+  "keywords": [
+   "rate limits",
+   "fallback",
+   "observability",
+   "AI Gateway",
+   "OpenAI"
+  ],
+  "filename": "2026-06-29-ai-rate-limit-fallback-observability.md",
+  "word_count": 534,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-28",
+  "title": "Gemini Interactions API와 x402로 보는 AI 에이전트의 상태·배포·결제 분리",
+  "lang": "ko",
+  "keywords": [
+   "Gemini Interactions API",
+   "temporary accounts",
+   "x402",
+   "pay-per-crawl",
+   "AI 에이전트"
+  ],
+  "filename": "2026-06-28-gemini-interactions-api-x402-temporary-accounts.md",
+  "word_count": 637,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-26",
+  "title": "MCP는 연결, Playwright는 검증: 코딩 에이전트의 프로덕션 분리 설계",
+  "lang": "ko",
+  "keywords": [
+   "코딩 에이전트",
+   "MCP",
+   "Playwright MCP",
+   "브라우저 검증",
+   "Google Cloud"
+  ],
+  "filename": "2026-06-26-mcp-playwright-verification-separation.md",
+  "word_count": 678,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-21",
+  "title": "MCP Registry와 /chronicle가 바꾸는 에이전트 운영 방식",
+  "lang": "ko",
+  "keywords": [
+   "MCP Registry",
+   "/chronicle",
+   "Playwright MCP",
+   "agent operations",
+   "browser verification"
+  ],
+  "filename": "2026-06-21-mcp-registry-chronicle-agent-ops.md",
+  "word_count": 614,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-20",
+  "title": "세션 로그와 브라우저 증거로 에이전트를 검증하는 법",
+  "lang": "ko",
+  "keywords": [
+   "GitHub Copilot app",
+   "/chronicle",
+   "Playwright MCP",
+   "worktree",
+   "browser verification"
+  ],
+  "filename": "2026-06-20-github-copilot-chronicle-playwright-mcp.md",
+  "word_count": 468,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-19",
+  "title": "세션이 제품이 됐다: GitHub Copilot 앱과 /chronicle가 바꾸는 코딩 에이전트 운영",
+  "lang": "ko",
+  "keywords": [
+   "GitHub Copilot app",
+   "/chronicle",
+   "agent sessions",
+   "Copilot CLI",
+   "session-driven workflow"
+  ],
+  "filename": "2026-06-19-session-driven-agent-ops-github-copilot-chronicle.md",
+  "word_count": 537,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-15",
+  "title": "GitHub agent sessions가 중요한 이유: 코딩 에이전트는 이제 로그가 제품이다",
+  "lang": "ko",
+  "keywords": [
+   "GitHub Copilot",
+   "agent sessions",
+   "/chronicle",
+   "GitHub Agentic Workflows",
+   "OpenAI Codex"
+  ],
+  "filename": "2026-06-15-github-agent-sessions-log-product.md",
+  "word_count": 566,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-14",
+  "title": "Codex의 Ona 인수가 말해주는 것: 에이전트는 클라우드 작업공간이 필요하다",
+  "lang": "ko",
+  "keywords": [
+   "OpenAI Codex",
+   "Ona",
+   "GitHub Copilot",
+   "Claude Code",
+   "MCP"
+  ],
+  "filename": "2026-06-14-codex-ona-cloud-workspace.md",
+  "word_count": 644,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-12",
+  "title": "2026년 코딩 에이전트는 모델보다 라우팅이 중요하다",
+  "lang": "ko",
+  "keywords": [
+   "GitHub Agent HQ",
+   "Claude Code",
+   "OpenAI Codex",
+   "MCP",
+   "agent routing"
+  ],
+  "filename": "2026-06-12-agent-routing-over-models.md",
+  "word_count": 575,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-11",
+  "title": "에이전트는 이제 IDE가 아니라 데스크톱 관제판에서 움직인다",
+  "lang": "ko",
+  "keywords": [
+   "GitHub Copilot app",
+   "OpenAI background mode",
+   "Claude Code",
+   "MCP Registry",
+   "AI agents"
+  ],
+  "filename": "2026-06-11-agent-control-plane-desktop-workflow.md",
+  "word_count": 668,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-10",
+  "title": "코딩 에이전트의 경쟁력은 모델보다 패키징에 있다",
+  "lang": "ko",
+  "keywords": [
+   "GitHub Agentic Workflows",
+   "Claude Code",
+   "subagents",
+   "skills",
+   "GitHub Actions"
+  ],
+  "filename": "2026-06-10-coding-agents-packaging-over-models.md",
+  "word_count": 583,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-08",
+  "title": "AI 코딩 에이전트는 왜 스펙부터 써야 하나",
+  "lang": "ko",
+  "keywords": [
+   "spec-driven development",
+   "GitHub Spec Kit",
+   "prompt injection",
+   "Claude Code",
+   "AI coding agents"
+  ],
+  "filename": "2026-06-08-spec-before-execution-ai-coding-agents.md",
+  "word_count": 717,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-07",
+  "title": "왜 MCP Registry와 Windows ODR가 중요한가: 에이전트 도구가 '발견 가능한 인프라'가 되는 순간",
+  "lang": "ko",
+  "keywords": [
+   "MCP Registry",
+   "Windows ODR",
+   "Model Context Protocol",
+   "mcp-publisher",
+   "agent connectors"
+  ],
+  "filename": "2026-06-07-mcp-registry-windows-odr-agent-discovery.md",
+  "word_count": 584,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-06",
+  "title": "Agent skills는 지식, sandbox는 실행: GitHub Copilot과 Claude Code를 같이 쓰는 법",
+  "lang": "ko",
+  "keywords": [
+   "agent skills",
+   "Claude Code sandbox",
+   "GitHub Copilot",
+   "gh skill",
+   "AI coding agents"
+  ],
+  "filename": "2026-06-06-agent-skills-sandbox-github-copilot-claude-code.md",
+  "word_count": 573,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-05",
+  "title": "에이전트가 멈추지 않게 하려면: 백그라운드 실행, 샌드박스, MCP 레지스트리를 분리하라",
+  "lang": "ko",
+  "keywords": [
+   "OpenAI Background mode",
+   "Claude sandbox",
+   "MCP Registry",
+   "에이전트 아키텍처",
+   "비동기 실행"
+  ],
+  "filename": "2026-06-05-background-mode-sandbox-mcp-registry.md",
+  "word_count": 732,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-04",
+  "title": "Agent skills는 지식, sandboxes는 실행: GitHub Copilot를 안전하게 굴리는 법",
+  "lang": "ko",
+  "keywords": [
+   "GitHub Copilot",
+   "agent skills",
+   "sandboxes",
+   "gh skill",
+   "AI security"
+  ],
+  "filename": "2026-06-04-github-copilot-agent-skills-sandboxes-safe-execution.md",
+  "word_count": 642,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-02",
+  "title": "챗보다 작업공간이 중요한 이유: GitHub Copilot agent skills와 agentic workflows",
+  "lang": "ko",
+  "keywords": [
+   "GitHub Copilot",
+   "agent skills",
+   "agentic workflows",
+   "GitHub Actions",
+   "AI agents"
+  ],
+  "filename": "2026-06-02-github-copilot-agent-skills-agentic-workflows.md",
+  "word_count": 560,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-01",
+  "title": "GitHub Copilot AI Credits 전환 후 가장 먼저 할 일: 모델별 비용과 예산선 정하기",
+  "lang": "ko",
+  "keywords": [
+   "GitHub Copilot",
+   "AI Credits",
+   "usage-based billing",
+   "비용 관리",
+   "agentic workflows"
+  ],
+  "filename": "2026-06-01-github-copilot-ai-credits-cost-control.md",
+  "word_count": 660,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-31",
+  "title": "에이전트 코딩은 왜 채팅보다 워크플로우가 중요해졌나",
+  "lang": "ko",
+  "keywords": [
+   "에이전트 코딩",
+   "GitHub Agentic Workflows",
+   "Claude Managed Agents",
+   "OpenAI Codex",
+   "워크플로우"
+  ],
+  "filename": "2026-05-31-agentic-coding-workflow-over-chat.md",
+  "word_count": 853,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-30",
+  "title": "Claude Code와 Playwright MCP를 같이 쓰는 이유: 코드 수정과 브라우저 검증 분리하기",
+  "lang": "ko",
+  "keywords": [
+   "Claude Code",
+   "Playwright MCP",
+   "MCP Registry",
+   "브라우저 검증",
+   "AI 에이전트"
+  ],
+  "filename": "2026-05-30-claude-code-playwright-mcp-browser-verification.md",
+  "word_count": 662,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-26",
+  "title": "MCP는 도구, A2A는 협업: 에이전트 아키텍처를 나누는 법",
+  "lang": "ko",
+  "keywords": [
+   "MCP",
+   "A2A",
+   "Background mode",
+   "에이전트 아키텍처",
+   "LLM 워크플로우"
+  ],
+  "filename": "2026-05-26-mcp-a2a-background-mode-agent-architecture.md",
+  "word_count": 3912,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-10",
+  "title": "프롬프트 엔지니어링은 끝났다 — 컨텍스트 엔지니어링이 AI 에이전트의 새로운 패러다임이다",
+  "lang": "ko",
+  "keywords": [
+   "컨텍스트 엔지니어링",
+   "AI 에이전트",
+   "프롬프트 엔지니어링",
+   "LLM",
+   "context management"
+  ],
+  "filename": "2026-05-10-context-engineering-beyond-prompt-engineering.md",
+  "word_count": 12639,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-07",
+  "title": "RAG 검색 실패 40%를 줄이는 하이브리드 서치와 리랭킹 실전 가이드",
+  "lang": "ko",
+  "keywords": [
+   "RAG",
+   "하이브리드 서치",
+   "BM25",
+   "리랭킹",
+   "벡터 데이터베이스",
+   "pgvector"
+  ],
+  "filename": "2026-05-07-rag-hybrid-search-reranking-guide.md",
+  "word_count": 8720,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-05",
+  "title": "WebAssembly와 WebGPU로 브라우저 위에서 AI 추론하기",
+  "lang": "ko",
+  "keywords": [
+   "WebAssembly",
+   "WebGPU",
+   "브라우저 AI",
+   "ONNX Runtime",
+   "웹 머신러닝"
+  ],
+  "filename": "2026-05-05-webassembly-webgpu-browser-ai-inference.md",
+  "word_count": 4500,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-05",
+  "title": "LLM 장기 기억과 지식 그래프: AI 에이전트의 맥락 유지 생태계",
+  "lang": "ko",
+  "keywords": [
+   "LLM 메모리",
+   "지식 그래프",
+   "AI 에이전트",
+   "장기 기억",
+   "RAG"
+  ],
+  "filename": "2026-05-05-llm-memory-knowledge-graph-ecosystem.md",
+  "word_count": 4200,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-04",
+  "title": "2026년 오픈소스 LLM 비교 가이드: Llama, Mistral, Qwen, Gemma",
+  "lang": "ko",
+  "keywords": [
+   "오픈소스 LLM",
+   "Llama",
+   "Mistral",
+   "Qwen",
+   "Gemma"
+  ],
+  "filename": "2026-05-04-opensource-llm-comparison-guide-2026.md",
+  "word_count": 3800,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-03",
+  "title": "로컬 LLM 배포 실전 가이드: Ollama, vLLM, llama.cpp 비교",
+  "lang": "ko",
+  "keywords": [
+   "로컬 LLM",
+   "Ollama",
+   "vLLM",
+   "llama.cpp",
+   "모델 배포"
+  ],
+  "filename": "2026-05-03-local-llm-deployment-practical-guide.md",
+  "word_count": 3600,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-02",
+  "title": "LLM 구조화 출력 실전 가이드: 더 이상 정규식으로 JSON 파싱하지 마라",
+  "lang": "ko",
+  "keywords": [
+   "구조화 출력",
+   "Structured Output",
+   "JSON Schema",
+   "OpenAI",
+   "Claude",
+   "제약 디코딩"
+  ],
+  "filename": "2026-05-02-llm-structured-output-practical-guide-2026.md",
+  "word_count": 4000,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-01",
+  "title": "2026년 AI 코딩 에이전트 비교: Claude Code vs Cursor vs Copilot, 무엇이 다른가",
+  "lang": "ko",
+  "keywords": [
+   "AI 코딩",
+   "Claude Code",
+   "Cursor",
+   "GitHub Copilot",
+   "개발도구"
+  ],
+  "filename": "2026-05-01-ai-coding-agents-comparison-2026.md",
+  "word_count": 3500,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-04-28",
+  "title": "2026년 개발자 실전 세팅: GitHub Agentic Workflows로 AI 코딩 도구를 CI/CD에 연동하는 법",
+  "lang": "ko",
+  "keywords": [
+   "GitHub Actions",
+   "Agentic Workflows",
+   "CI/CD",
+   "AI 코딩 도구",
+   "DevOps 자동화"
+  ],
+  "filename": "2026-04-28-github-agentic-workflows-ai-coding-setup-2026.md",
+  "word_count": 6000,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-04-27",
+  "title": "MCP 서버 30분 만에 만들기: Claude Code와 연동하는 나만의 AI 도구",
+  "lang": "ko",
+  "keywords": [
+   "MCP",
+   "Model Context Protocol",
+   "Claude Code",
+   "FastMCP",
+   "AI 도구"
+  ],
+  "filename": "2026-04-27-mcp-server-tutorial-30min.md",
+  "word_count": 5500,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-08",
+  "title": "AI 에이전트가 왜 그런 대답을 했는지 추적하는 법: Langfuse와 OpenTelemetry로 옵저버빌리티 구축하기",
+  "lang": "ko",
+  "keywords": [
+   "AI 에이전트",
+   "옵저버빌리티",
+   "Langfuse",
+   "OpenTelemetry",
+   "트레이싱",
+   "LLM 디버깅"
+  ],
+  "filename": "2026-05-08-ai-agent-observability-langfuse-opentelemetry.md",
+  "word_count": 2839,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-16",
+  "title": "2026년 AI 트렌드 분석: H200/B200 GPU, 음성 클로닝, LLM 벤치마크",
+  "lang": "ko",
+  "keywords": [
+   "AI 트렌드",
+   "GPU",
+   "음성 클로닝",
+   "LLM 벤치마크"
+  ],
+  "filename": "2026-05-16-ai-trends-analysis-h200-b200-voice-cloning-llm-benchmarks.md",
+  "word_count": 9897,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-17",
+  "title": "AI 에이전트 메모리 관리와 SWE-bench 코드 리뷰 벤치마크 실전 분석",
+  "lang": "ko",
+  "keywords": [
+   "AI 에이전트",
+   "메모리 관리",
+   "SWE-bench",
+   "코드 리뷰"
+  ],
+  "filename": "2026-05-17-ai-agent-memory-swe-bench.md",
+  "word_count": 8639,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-18",
+  "title": "Python 코드에서 자주 발생하는 보안 취약점과 실전 대응 전략",
+  "lang": "ko",
+  "keywords": [
+   "Python",
+   "보안",
+   "취약점",
+   "SQL 인젝션",
+   "CSRF"
+  ],
+  "filename": "2026-05-18-python-security.md",
+  "word_count": 6829,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-19",
+  "title": "2026년 프롬프트 인젝션 방어 실전 가이드 — 8가지 기법 비교와 레이어드 아키텍처",
+  "lang": "ko",
+  "keywords": [
+   "프롬프트 인젝션",
+   "LLM 보안",
+   "AI 에이전트 보안",
+   "PromptGuard",
+   "PromptArmor",
+   "OWASP LLM Top 10"
+  ],
+  "filename": "2026-05-19-prompt-injection-defense-guide.md",
+  "word_count": 10248,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-20",
+  "title": "벡터 데이터베이스 선택 가이드 2026 — Pinecone vs Weaviate vs Qdrant vs Milvus 실전 비교",
+  "lang": "ko",
+  "keywords": [
+   "벡터 데이터베이스",
+   "Pinecone",
+   "Weaviate",
+   "Qdrant",
+   "Milvus",
+   "임베딩 검색",
+   "HNSW",
+   "RAG"
+  ],
+  "filename": "2026-05-20-vector-database-comparison-guide.md",
+  "word_count": 8644,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-05-28",
+  "title": "GitHub Agentic Workflows와 Anthropic 리포트로 본 2026 코딩 팀 운영법",
+  "lang": "ko",
+  "keywords": [
+   "GitHub Agentic Workflows",
+   "Anthropic",
+   "agentic coding",
+   "GitHub Actions",
+   "코딩 에이전트"
+  ],
+  "filename": "2026-05-28-github-agentic-workflows-anthropic-coding-team.md",
+  "word_count": 3715,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-13",
+  "title": "GPT-5.3-Codex-Spark가 보여준 코딩 에이전트의 새 기준",
+  "lang": "ko",
+  "keywords": [
+   "GPT-5.3-Codex-Spark",
+   "Codex app",
+   "GitHub Copilot",
+   "Visual Studio Code",
+   "에이전트 워크플로우"
+  ],
+  "filename": "2026-06-13-gpt-53-codex-spark-coding-agent-new-standard.md",
+  "word_count": 653,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-06-16",
+  "title": "MCP Registry·Chronicle·Playwright MCP로 만드는 디버그 가능한 에이전트 스택",
+  "lang": "ko",
+  "keywords": [
+   "MCP Registry",
+   "Chronicle",
+   "Playwright MCP",
+   "agent stack",
+   "observability"
+  ],
+  "filename": "2026-06-16-mcp-registry-chronicle-playwright-mcp-agent-stack.md",
+  "word_count": 584,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-07-12",
+  "title": "MCP 2026-07-28 스펙이 바꾸는 것: 세션리스 프로토콜과 OAuth 2.1 리소스 서버",
+  "lang": "ko",
+  "keywords": [
+   "MCP",
+   "Model Context Protocol",
+   "OAuth 2.1",
+   "stateless protocol",
+   "AI agent authentication"
+  ],
+  "filename": "2026-07-12-mcp-2026-07-28-spec-stateless-oauth2-resource-server.md",
+  "word_count": 3200,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-08-09",
+  "title": "RAG 임베딩 모델 선택 가이드 2026 — MTEB 리더보드 해석부터 Matryoshka 차원 축소까지",
+  "lang": "ko",
+  "keywords": [
+   "임베딩 모델",
+   "RAG",
+   "MTEB",
+   "Matryoshka",
+   "Qwen3-Embedding",
+   "벡터 검색",
+   "BGE-M3",
+   "NV-Embed-v2"
+  ],
+  "filename": "2026-08-09-rag-embedding-model-selection-guide-mteb-matryoshka-2026.md",
+  "word_count": 4500,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-08-15",
+  "title": "A2A 프로토콜 1.0 실전 가이드 — 서로 다른 AI 에이전트를 연결하는 표준 기술",
+  "lang": "ko",
+  "keywords": [
+   "A2A 프로토콜",
+   "Agent2Agent",
+   "AI 에이전트",
+   "MCP",
+   "Agent Card",
+   "에이전트 상호운용성"
+  ],
+  "filename": "2026-08-15-a2a-protocol-1-practical-guide-agent-card-task-lifecycle.md",
+  "word_count": 3600,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-08-25",
+  "title": "SKILL.md 하나로 에이전트를 가르치는 시대: Agent Skills 오픈 표준 실전 가이드",
+  "lang": "ko",
+  "keywords": [
+   "Agent Skills",
+   "SKILL.md",
+   "Claude Code",
+   "Codex",
+   "오픈 표준"
+  ],
+  "filename": "2026-08-25-agent-skills-skill-md-open-standard-portable-guide.md",
+  "word_count": 2382,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-09-01",
+  "title": "AI 에이전트 evals 설계의 실전: 그레이더 3종, pass@k과 pass^k, 그리고 20~50개 태스크로 시작하는 방법",
+  "lang": "ko",
+  "keywords": [
+   "AI 에이전트",
+   "evals",
+   "LLM-as-judge",
+   "pass@k",
+   "SWE-bench",
+   "ASSERT"
+  ],
+  "filename": "2026-09-01-agent-evals-design-graders-pass-at-k-practical-guide.md",
+  "word_count": 4200,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-09-23",
+  "title": "MCP 서버 20만 대가 한 줄짜리 설계 결함에 노출된 이유 — 2026년 MCP 보안 사건들로 배우는 방어 체크리스트",
+  "lang": "ko",
+  "keywords": [
+   "MCP 보안",
+   "Model Context Protocol",
+   "툴 포이즈닝",
+   "프롬프트 인젝션",
+   "DuneSlide",
+   "CVE-2026-50548"
+  ],
+  "filename": "2026-09-23-mcp-security-2026-cve-attack-vectors-defense.md",
+  "word_count": 14919,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-10-14",
+  "title": "도구 30개가 에이전트를 멍청하게 만든다 — MCP 툴 정의의 토큰 세금과 이를 없애는 두 가지 패턴",
+  "lang": "ko",
+  "keywords": [
+   "MCP",
+   "tool search",
+   "defer_loading",
+   "progressive disclosure",
+   "context engineering",
+   "AI 에이전트"
+  ],
+  "filename": "2026-10-14-mcp-tool-overload-token-tax-progressive-disclosure.md",
+  "word_count": 4300,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-10-17",
+  "title": "하루 2,500만 번의 체크아웃이 Git을 무너뜨렸다 — Anthropic Scion 사례로 보는 에이전트 시대의 코드 인프라",
+  "lang": "ko",
+  "keywords": [
+   "Anthropic Scion",
+   "버전 관리",
+   "AI 코딩 에이전트",
+   "GitHub Actions lockfile",
+   "Agentic Autofix"
+  ],
+  "filename": "2026-10-17-agent-scale-git-bottleneck-anthropic-scion-checklist.md",
+  "word_count": 4400,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-10-18",
+  "title": "SQLite는 진실을 맡고 ZVec은 속도를 맡는다 — 알리바이 임베디드 벡터 DB 실전 해부",
+  "lang": "ko",
+  "keywords": [
+   "ZVec",
+   "알리바이",
+   "임베디드 벡터 데이터베이스",
+   "로컬 RAG",
+   "HNSW",
+   "VectorDBBench",
+   "에이전트 메모리"
+  ],
+  "filename": "2026-10-18-alibaba-zvec-in-process-vector-database.md",
+  "word_count": 6800,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-10-19",
+  "title": "한국어 오픈소스 TTS의 기준이 바뀌었다 — Qwen3-TTS 12Hz 실전 가이드와 Voxtral TTS 비교",
+  "lang": "ko",
+  "keywords": [
+   "Qwen3-TTS",
+   "오픈소스 TTS",
+   "한국어 TTS",
+   "Voxtral TTS",
+   "보이스 클로닝",
+   "음성 합성"
+  ],
+  "filename": "2026-10-19-qwen3-tts-korean-opensource-tts-voxtral-comparison.md",
+  "word_count": 4200,
+  "quality_score": "pass"
+ },
+ {
+  "date": "2026-10-21",
+  "title": "AI 코딩 에이전트는 코드를 30% 늘렸다, 그러나 소프트웨어 출시량은 그대로 — 하버드 718개 기업 연구가 밝힌 리뷰 병목",
+  "lang": "ko",
+  "keywords": [
+   "AI 코딩 에이전트",
+   "코드 리뷰 병목",
+   "소프트웨어 생산성",
+   "Claude Code",
+   "개발 프로세스"
+  ],
+  "filename": "2026-10-21-ai-coding-agent-review-bottleneck-harvard-jellyfish.md",
+  "word_count": 3400,
+  "quality_score": "pass"
+ }
 ]
