@@ -1866,5 +1866,22 @@
     "filename": "2026-10-20-text-to-sql-benchmark-cliff-production-pipeline.md",
     "word_count": 6631,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "프롬프트로 'JSON으로 답해'라고 쓰지 마세요 — LLM 구조화 출력의 3단계 신뢰성과 3사 API 실전 코드",
+    "lang": "ko",
+    "keywords": [
+      "구조화 출력",
+      "structured outputs",
+      "constrained decoding",
+      "JSON Schema",
+      "OpenAI",
+      "Claude API",
+      "Zod"
+    ],
+    "filename": "2026-10-22-llm-structured-outputs-constrained-decoding-guide.md",
+    "word_count": 6100,
+    "quality_score": "pass"
   }
 ]
