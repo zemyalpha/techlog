@@ -1883,5 +1883,22 @@
     "filename": "2026-10-22-llm-structured-outputs-constrained-decoding-guide.md",
     "word_count": 6100,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "에이전트 트래픽은 라운드로빈 로드밸런서로 못 버틴다 — llm-d 1.0 프리픽스 캐시 라우팅 실전 가이드",
+    "lang": "ko",
+    "keywords": [
+      "llm-d",
+      "Kubernetes",
+      "분산 추론",
+      "prefix cache",
+      "에이전트 인프라",
+      "vLLM",
+      "KV cache"
+    ],
+    "filename": "2026-10-23-llm-d-1-0-agentic-inference-prefix-cache-routing.md",
+    "word_count": 5200,
+    "quality_score": "pass"
   }
 ]
