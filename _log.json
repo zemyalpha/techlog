@@ -1900,5 +1900,22 @@
     "filename": "2026-10-23-llm-d-1-0-agentic-inference-prefix-cache-routing.md",
     "word_count": 5200,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Claude Code 66% vs Copilot 59% — 3만 명과 1만 5천 명의 설문이 그린 2026 AI 코딩 에이전트 지형도",
+    "lang": "ko",
+    "keywords": [
+      "AI 코딩 에이전트",
+      "Claude Code",
+      "GitHub Copilot",
+      "Stack Overflow 설문",
+      "JetBrains 조사",
+      "OpenAI Codex",
+      "Cursor"
+    ],
+    "filename": "2026-10-24-ai-coding-agent-landscape-stackoverflow-jetbrains-2026.md",
+    "word_count": 3512,
+    "quality_score": "pass"
   }
 ]
