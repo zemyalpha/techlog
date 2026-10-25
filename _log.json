@@ -1917,5 +1917,22 @@
     "filename": "2026-10-24-ai-coding-agent-landscape-stackoverflow-jetbrains-2026.md",
     "word_count": 3512,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "오프라인에서 병합되는 앱의 원리 — 2026년 로컬-퍼스트 동기화 엔진 선택 가이드",
+    "lang": "ko",
+    "keywords": [
+      "로컬 퍼스트",
+      "CRDT",
+      "Yjs",
+      "Automerge 3",
+      "Zero",
+      "TanStack DB",
+      "동기화 엔진"
+    ],
+    "filename": "2026-10-25-local-first-sync-engine-2026-crdt-zero-tanstack-automerge.md",
+    "word_count": 4426,
+    "quality_score": "pass"
   }
 ]
