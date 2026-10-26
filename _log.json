@@ -1934,5 +1934,22 @@
     "filename": "2026-10-25-local-first-sync-engine-2026-crdt-zero-tanstack-automerge.md",
     "word_count": 4426,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "MCP에서 세션이 사라졌다 — 2026-07-28 스테이트리스 개정이 바꾸는 프로덕션 아키텍처와 마이그레이션 체크리스트",
+    "lang": "ko",
+    "keywords": [
+      "MCP",
+      "Model Context Protocol",
+      "스테이트리스",
+      "에이전트 인프라",
+      "Envoy",
+      "OAuth 2.1",
+      "MRTR"
+    ],
+    "filename": "2026-10-26-mcp-stateless-2026-07-28-production-migration.md",
+    "word_count": 5400,
+    "quality_score": "pass"
   }
 ]
