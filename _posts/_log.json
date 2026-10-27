@@ -947,5 +947,21 @@
   "filename": "2026-10-21-ai-coding-agent-review-bottleneck-harvard-jellyfish.md",
   "word_count": 3400,
   "quality_score": "pass"
+ },
+ {
+  "date": "2026-10-27",
+  "title": "OSWorld 14.9%에서 86%까지 — 브라우저 에이전트를 데모에서 프로덕션으로 올리는 4층 아키텍처",
+  "lang": "ko",
+  "keywords": [
+   "브라우저 에이전트",
+   "Computer Use",
+   "browser-use",
+   "Stagehand",
+   "Playwright MCP",
+   "간접 프롬프트 인젝션"
+  ],
+  "filename": "2026-10-27-browser-agent-production-architecture.md",
+  "word_count": 5600,
+  "quality_score": "pass"
  }
 ]
