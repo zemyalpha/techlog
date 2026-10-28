@@ -1951,5 +1951,22 @@
     "filename": "2026-10-26-mcp-stateless-2026-07-28-production-migration.md",
     "word_count": 5400,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "816B 모델을 책상 위에서 돌리는 법 — MLX RDMA 분산 추론과 M5 Ultra 벤치마크 완전 분석",
+    "lang": "ko",
+    "keywords": [
+      "MLX",
+      "M5 Ultra",
+      "Mac Studio",
+      "RDMA",
+      "Thunderbolt 5",
+      "로컬 LLM",
+      "분산 추론"
+    ],
+    "filename": "2026-10-28-mlx-rdma-distributed-inference-m5-ultra.md",
+    "word_count": 4036,
+    "quality_score": "pass"
   }
 ]
