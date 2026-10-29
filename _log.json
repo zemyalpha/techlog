@@ -1968,5 +1968,23 @@
     "filename": "2026-10-28-mlx-rdma-distributed-inference-m5-ultra.md",
     "word_count": 4036,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "자바스크립트 도구체인의 지반은 이미 Rust다 — Vite 8·Rolldown·tsrs가 바꾼 2026년 프론트엔드 빌드 판도",
+    "lang": "ko",
+    "keywords": [
+      "Rust",
+      "Vite 8",
+      "Rolldown",
+      "Oxc",
+      "tsrs",
+      "TypeScript",
+      "빌드 도구",
+      "프론트엔드"
+    ],
+    "filename": "2026-10-29-js-toolchain-rust-shift-vite8-rolldown-tsrs.md",
+    "word_count": 3100,
+    "quality_score": "pass"
   }
 ]
