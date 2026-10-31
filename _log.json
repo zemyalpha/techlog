@@ -1986,5 +1986,21 @@
     "filename": "2026-10-29-js-toolchain-rust-shift-vite8-rolldown-tsrs.md",
     "word_count": 3100,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "WASI 0.3으로 서버 사이드 WebAssembly가 바뀌었다 — 네이티브 비동기와 Wasmtime 46 실전 가이드",
+    "lang": "ko",
+    "keywords": [
+      "WASI 0.3",
+      "WebAssembly",
+      "Wasmtime",
+      "컴포넌트 모델",
+      "네이티브 비동기",
+      "WIT"
+    ],
+    "filename": "2026-10-31-wasi-0-3-native-async-wasmtime-46-guide.md",
+    "word_count": 6056,
+    "quality_score": "pass"
   }
 ]
