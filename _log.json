@@ -2002,5 +2002,22 @@
     "filename": "2026-10-31-wasi-0-3-native-async-wasmtime-46-guide.md",
     "word_count": 6056,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-01",
+    "title": "2.8조 파라미터 오픈웨이트가 11월 4일 풀린다 — Kimi K3.1 Pro의 벤치마크 읽는 법과 셀프호스팅 하드웨어 수학",
+    "lang": "ko",
+    "keywords": [
+      "Kimi K3.1 Pro",
+      "Moonshot AI",
+      "오픈웨이트",
+      "Terminal-Bench",
+      "MoE",
+      "셀프호스팅",
+      "LLM API 가격"
+    ],
+    "filename": "2026-11-01-kimi-k3-1-pro-open-weights-terminal-bench-self-host-math.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
