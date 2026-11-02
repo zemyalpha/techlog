@@ -2019,5 +2019,22 @@
     "filename": "2026-11-01-kimi-k3-1-pro-open-weights-terminal-bench-self-host-math.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-02",
+    "title": "PostgreSQL 19은 왜 11월로 미뤄졌나 — LLM 코드 리뷰가 찾아낸 버그와 살아남은 기능(REPACK, pg_plan_advice) 실전 가이드",
+    "lang": "ko",
+    "keywords": [
+      "PostgreSQL 19",
+      "LLM 코드 리뷰",
+      "REPACK",
+      "pg_plan_advice",
+      "WAIT 명령",
+      "업그레이드",
+      "데이터베이스"
+    ],
+    "filename": "2026-11-02-postgresql-19-delay-llm-code-review-repack-plan-advice.md",
+    "word_count": 3200,
+    "quality_score": "pass"
   }
 ]
