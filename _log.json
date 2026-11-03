@@ -2036,5 +2036,21 @@
     "filename": "2026-11-02-postgresql-19-delay-llm-code-review-repack-plan-advice.md",
     "word_count": 3200,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "GitHub PR의 40%가 이제 AI 에이전트가 연다 — Octoverse 2026 수치로 보는 리뷰 파이프라인의 한계와 대응",
+    "lang": "ko",
+    "keywords": [
+      "Octoverse 2026",
+      "AI 코딩 에이전트",
+      "GitHub",
+      "코드 리뷰",
+      "Claude Code",
+      "CI 파이프라인"
+    ],
+    "filename": "2026-11-03-octoverse-2026-agent-pr-40-review-pipeline.md",
+    "word_count": 10433,
+    "quality_score": "pass"
   }
 ]
