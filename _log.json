@@ -2052,5 +2052,21 @@
     "filename": "2026-11-03-octoverse-2026-agent-pr-40-review-pipeline.md",
     "word_count": 10433,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "아이폰 안에 200억 파라미터를 넣는 법 — Apple AFM 3의 플래시 기반 sparse 아키텍처와 Foundation Models 프레임워크 실전 가이드",
+    "lang": "ko",
+    "keywords": [
+      "Apple AFM 3",
+      "Foundation Models 프레임워크",
+      "온디바이스 AI",
+      "Instruction-Following Pruning",
+      "Private Cloud Compute",
+      "Swift"
+    ],
+    "filename": "2026-11-04-apple-afm3-ifp-flash-foundation-models-guide.md",
+    "word_count": 4600,
+    "quality_score": "pass"
   }
 ]
