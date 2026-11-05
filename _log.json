@@ -2068,5 +2068,22 @@
     "filename": "2026-11-04-apple-afm3-ifp-flash-foundation-models-guide.md",
     "word_count": 4600,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "리눅스 커널 7.0에서 Rust가 정식 언어가 되었다 — 실험 종료가 실제로 의미하는 것과 드라이버 작성 실전 가이드",
+    "lang": "ko",
+    "keywords": [
+      "Linux 7.0",
+      "Rust",
+      "커널 드라이버",
+      "Rust for Linux",
+      "Nova",
+      "DRM",
+      "메모리 안전성"
+    ],
+    "filename": "2026-11-05-linux-7-rust-kernel-drivers-guide.md",
+    "word_count": 3200,
+    "quality_score": "pass"
   }
 ]
