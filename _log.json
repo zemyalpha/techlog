@@ -2085,5 +2085,22 @@
     "filename": "2026-11-05-linux-7-rust-kernel-drivers-guide.md",
     "word_count": 3200,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "MCP가 세션을 버렸다 — 2026-07-28 스테이트리스 스펙 마이그레이션 가이드와 로드맵 5개 우선영역",
+    "lang": "ko",
+    "keywords": [
+      "MCP",
+      "Model Context Protocol",
+      "스테이트리스",
+      "Streamable HTTP",
+      "SEP-2575",
+      "server/discover",
+      "에이전트 프로토콜"
+    ],
+    "filename": "2026-11-06-mcp-2026-07-28-stateless-spec-migration-roadmap.md",
+    "word_count": 5616,
+    "quality_score": "pass"
   }
 ]
