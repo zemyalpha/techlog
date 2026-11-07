@@ -2102,5 +2102,21 @@
     "filename": "2026-11-06-mcp-2026-07-28-stateless-spec-migration-roadmap.md",
     "word_count": 5616,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-07",
+    "title": "Gemini 4 Argon 1M 토큰 출력 실전 가이드 — 12월 1일 가격 인상 전에 잡아야 할 것들",
+    "lang": "ko",
+    "keywords": [
+      "Gemini 4 Argon",
+      "Gemini API",
+      "long decode",
+      "Google DeepMind",
+      "LLM 가격",
+      "AI 코딩"
+    ],
+    "filename": "2026-11-07-gemini-4-argon-1m-long-decode-guide.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
