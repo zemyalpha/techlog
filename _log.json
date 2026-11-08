@@ -2118,5 +2118,20 @@
     "filename": "2026-11-07-gemini-4-argon-1m-long-decode-guide.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-08",
+    "title": "알리바바 Zvec과 sqlite-vec — 온디바이스 RAG를 위한 임베디드 벡터 DB 실전 비교",
+    "lang": "ko",
+    "keywords": [
+      "Zvec",
+      "sqlite-vec",
+      "임베디드 벡터 데이터베이스",
+      "온디바이스 RAG",
+      "하이브리드 검색"
+    ],
+    "filename": "2026-11-08-zvec-sqlite-vec-embedded-vector-db-on-device-rag.md",
+    "word_count": 3600,
+    "quality_score": "pass"
   }
 ]
