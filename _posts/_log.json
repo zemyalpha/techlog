@@ -978,5 +978,21 @@
     "filename": "2026-10-30-voice-agent-production-latency-cost.md",
     "word_count": 7000,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-09",
+    "title": "Claude API Message Threads 실전 가이드 — 긴 에이전트 세션의 첫 토큰 대기 35% 줄이기",
+    "lang": "ko",
+    "keywords": [
+      "Anthropic",
+      "Message Threads",
+      "Claude API",
+      "AI 에이전트",
+      "TTFT",
+      "프롬프트 캐싱"
+    ],
+    "filename": "2026-11-09-claude-api-message-threads-agent-ttft-guide.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
