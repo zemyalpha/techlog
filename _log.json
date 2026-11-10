@@ -2133,5 +2133,21 @@
     "filename": "2026-11-08-zvec-sqlite-vec-embedded-vector-db-on-device-rag.md",
     "word_count": 3600,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "맥에서 로컬 LLM 속도는 메모리 대역폭이 결정한다 — 대역폭 공식으로 tok/s 예측하는 법",
+    "lang": "ko",
+    "keywords": [
+      "Apple Silicon",
+      "로컬 LLM",
+      "메모리 대역폭",
+      "llama.cpp",
+      "MLX",
+      "MoE"
+    ],
+    "filename": "2026-11-10-apple-silicon-llm-bandwidth-tok-s-formula.md",
+    "word_count": 3800,
+    "quality_score": "pass"
   }
 ]
