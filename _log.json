@@ -2149,5 +2149,23 @@
     "filename": "2026-11-10-apple-silicon-llm-bandwidth-tok-s-formula.md",
     "word_count": 3800,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "OpenAI는 Git을 버리지 않고 서버만 갈아엎었다 — Pando 아키텍처 분석: 인과적 일관성과 팩파일 재사용",
+    "lang": "ko",
+    "keywords": [
+      "Pando",
+      "OpenAI",
+      "Git",
+      "모노레포",
+      "소스컨트롤",
+      "Codex",
+      "팩파일",
+      "agent-scale"
+    ],
+    "filename": "2026-11-11-openai-pando-git-backend-architecture.md",
+    "word_count": 3800,
+    "quality_score": "pass"
   }
 ]
