@@ -2167,5 +2167,21 @@
     "filename": "2026-11-11-openai-pando-git-backend-architecture.md",
     "word_count": 3800,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "AI 에이전트 관측은 이제 표준으로 묶는다 — OpenTelemetry GenAI 규약과 Langfuse·Phoenix 실전 비교",
+    "lang": "ko",
+    "keywords": [
+      "OpenTelemetry",
+      "GenAI 시맨틱 컨벤션",
+      "AI 에이전트 옵저버빌리티",
+      "Langfuse",
+      "Arize Phoenix",
+      "OpenInference"
+    ],
+    "filename": "2026-11-12-otel-genai-semconv-agent-observability.md",
+    "word_count": 5132,
+    "quality_score": "pass"
   }
 ]
