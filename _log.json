@@ -2183,5 +2183,20 @@
     "filename": "2026-11-12-otel-genai-semconv-agent-observability.md",
     "word_count": 5132,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "AI 코딩 에이전트가 코드를 쓰는 시대, 검토할 것은 스펙이다 — Spec Kit·Kiro 스펙 주도 개발 실전 가이드",
+    "lang": "ko",
+    "keywords": [
+      "스펙 주도 개발",
+      "GitHub Spec Kit",
+      "AWS Kiro",
+      "AI 코딩 에이전트",
+      "바이브 코딩"
+    ],
+    "filename": "2026-11-13-spec-driven-development-spec-kit-kiro.md",
+    "word_count": 3700,
+    "quality_score": "pass"
   }
 ]
