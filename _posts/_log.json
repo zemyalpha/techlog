@@ -994,5 +994,21 @@
     "filename": "2026-11-09-claude-api-message-threads-agent-ttft-guide.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-14",
+    "title": "llama.cpp v1.0.0 출시 — 3.5년 만의 1.0 선언, FP8 KV 캐시와 MoE 캐시로 바뀐 것들",
+    "lang": "ko",
+    "keywords": [
+      "llama.cpp",
+      "ggml",
+      "FP8 KV 캐시",
+      "MoE 캐시",
+      "로컬 LLM 추론",
+      "semantic versioning"
+    ],
+    "filename": "2026-11-14-llama-cpp-v1-release-fp8-kv-moe-cache.md",
+    "word_count": 4200,
+    "quality_score": "pass"
   }
 ]
