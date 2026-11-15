@@ -2198,5 +2198,22 @@
     "filename": "2026-11-13-spec-driven-development-spec-kit-kiro.md",
     "word_count": 3700,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "1조 파라미터 모델을 무료로 다운로드하는 시대, 진짜 문제는 서빙이다 — Mistral Large 4 오픈 웨이트와 llm-d 1.0 분산 추론 가이드",
+    "lang": "ko",
+    "keywords": [
+      "Mistral Large 4",
+      "llm-d",
+      "오픈 웨이트",
+      "분산 추론",
+      "vLLM",
+      "Kubernetes",
+      "자체 호스팅"
+    ],
+    "filename": "2026-11-15-mistral-large-4-openweights-llm-d-1-0-selfhosting.md",
+    "word_count": 2500,
+    "quality_score": "pass"
   }
 ]
