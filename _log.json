@@ -2215,5 +2215,22 @@
     "filename": "2026-11-15-mistral-large-4-openweights-llm-d-1-0-selfhosting.md",
     "word_count": 2500,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "PostgreSQL 19가 3일 뒤 나온다 — 베타에서 되돌려진 기능과 살아남은 기능의 최종 목록",
+    "lang": "ko",
+    "keywords": [
+      "PostgreSQL 19",
+      "PostgreSQL",
+      "REPACK",
+      "pg_plan_advice",
+      "ON CONFLICT DO SELECT",
+      "데이터베이스",
+      "업그레이드 가이드"
+    ],
+    "filename": "2026-11-16-postgresql-19-ga-nov19-reverted-features-upgrade-guide.md",
+    "word_count": 4114,
+    "quality_score": "pass"
   }
 ]
