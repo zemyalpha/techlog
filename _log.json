@@ -2232,5 +2232,22 @@
     "filename": "2026-11-16-postgresql-19-ga-nov19-reverted-features-upgrade-guide.md",
     "word_count": 4114,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Claude가 53만 줄 런타임을 11일 만에 Rust로 다시 쓴 방법 — Bun 재작성 사례 분석",
+    "lang": "ko",
+    "keywords": [
+      "Bun",
+      "Rust 재작성",
+      "Claude Code",
+      "LLM 코딩 에이전트",
+      "Zig",
+      "적대적 리뷰",
+      "JavaScript 런타임"
+    ],
+    "filename": "2026-11-17-bun-rust-rewrite-claude-11days-analysis.md",
+    "word_count": 4612,
+    "quality_score": "pass"
   }
 ]
