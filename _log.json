@@ -2249,5 +2249,21 @@
     "filename": "2026-11-17-bun-rust-rewrite-claude-11days-analysis.md",
     "word_count": 4612,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "AI 코딩 에이전트가 브라우저를 직접 들여다본다 — Chrome DevTools for agents 실전 가이드",
+    "lang": "ko",
+    "keywords": [
+      "Chrome DevTools MCP",
+      "코딩 에이전트",
+      "MCP",
+      "브라우저 디버깅",
+      "성능 트레이스",
+      "chrome-devtools-mcp"
+    ],
+    "filename": "2026-11-18-chrome-devtools-for-agents-mcp-browser-debugging.md",
+    "word_count": 9485,
+    "quality_score": "pass"
   }
 ]
