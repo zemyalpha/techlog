@@ -2265,5 +2265,21 @@
     "filename": "2026-11-18-chrome-devtools-for-agents-mcp-browser-debugging.md",
     "word_count": 9485,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "LLM은 어제 대화를 기억하지 못한다 — LongMemEval이 밝힌 30~60% 성능 붕괴와 에이전트 메모리 설계 법칙 4가지",
+    "lang": "ko",
+    "keywords": [
+      "에이전트 메모리",
+      "LongMemEval",
+      "LoCoMo",
+      "LangGraph",
+      "AI 에이전트",
+      "장기 기억"
+    ],
+    "filename": "2026-11-19-agent-memory-longmemeval-design-rules.md",
+    "word_count": 4670,
+    "quality_score": "pass"
   }
 ]
