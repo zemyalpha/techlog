@@ -1010,5 +1010,22 @@
     "filename": "2026-11-14-llama-cpp-v1-release-fp8-kv-moe-cache.md",
     "word_count": 4200,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "문서 CRDT냐 관계형 동기화냐 — 2026년 로컬퍼스트 동기화 엔진 선택 가이드",
+    "lang": "ko",
+    "keywords": [
+      "로컬퍼스트",
+      "CRDT",
+      "Yjs",
+      "Automerge 3",
+      "Zero",
+      "ElectricSQL",
+      "동기화 엔진"
+    ],
+    "filename": "2026-11-20-local-first-sync-engine-yjs-automerge-zero-electric.md",
+    "word_count": 5305,
+    "quality_score": "pass"
   }
 ]
