@@ -2281,5 +2281,20 @@
     "filename": "2026-11-19-agent-memory-longmemeval-design-rules.md",
     "word_count": 4670,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Kubernetes v1.37, 갱 스케줄링을 자체 내장으로 마쳤다 — Workload·PodGroup API 베타와 CompositePodGroup 분석",
+    "lang": "ko",
+    "keywords": [
+      "Kubernetes v1.37",
+      "갱 스케줄링",
+      "PodGroup",
+      "CompositePodGroup",
+      "AI 분산학습"
+    ],
+    "filename": "2026-11-21-kubernetes-137-workload-aware-scheduling-gang.md",
+    "word_count": 2233,
+    "quality_score": "pass"
   }
 ]
