@@ -2296,5 +2296,21 @@
     "filename": "2026-11-21-kubernetes-137-workload-aware-scheduling-gang.md",
     "word_count": 2233,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-22",
+    "title": "Microsoft agent-framework가 PyPI에서 해킹당한 45분 — .pth 훅 신원털이 공격 분석과 대응 체크리스트",
+    "lang": "ko",
+    "keywords": [
+      "공급망 공격",
+      "PyPI",
+      "agent-framework",
+      "Microsoft",
+      "credential stealer",
+      "pth 파일"
+    ],
+    "filename": "2026-11-22-agent-framework-pypi-supply-chain-attack.md",
+    "word_count": 5066,
+    "quality_score": "pass"
   }
 ]
