@@ -1027,5 +1027,21 @@
     "filename": "2026-11-20-local-first-sync-engine-yjs-automerge-zero-electric.md",
     "word_count": 5305,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "에이전트 프로토콜이 아홉 개인 시대, 결국 답은 계층이었다 — MCP·A2A·UCP·AP2·Poppy 스택 지도",
+    "lang": "ko",
+    "keywords": [
+      "MCP",
+      "A2A",
+      "Poppy",
+      "UCP",
+      "AP2",
+      "AI 에이전트 프로토콜"
+    ],
+    "filename": "2026-11-23-agent-protocol-stack-map-mcp-a2a-ucp-ap2-poppy.md",
+    "word_count": 2600,
+    "quality_score": "pass"
   }
 ]
