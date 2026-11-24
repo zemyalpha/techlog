@@ -2312,5 +2312,22 @@
     "filename": "2026-11-22-agent-framework-pypi-supply-chain-attack.md",
     "word_count": 5066,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-24",
+    "title": "에이전트의 낡은 지식을 치료하는 폴더 하나 — Agent Skills 표준과 구글 Modern Web Guidance 1.0 분석",
+    "lang": "ko",
+    "keywords": [
+      "Agent Skills",
+      "Modern Web Guidance",
+      "SKILL.md",
+      "코딩 에이전트",
+      "프롬프트 엔지니어링",
+      "Claude Code",
+      "웹 플랫폼"
+    ],
+    "filename": "2026-11-24-agent-skills-standard-modern-web-guidance.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
