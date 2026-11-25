@@ -2329,5 +2329,21 @@
     "filename": "2026-11-24-agent-skills-standard-modern-web-guidance.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-25",
+    "title": "Rust 1.100이 10년 묵은 never type의 숙제를 풀었다 — DropGuard, Cargo 쿨다운까지 업그레이드 체크리스트",
+    "lang": "ko",
+    "keywords": [
+      "Rust 1.100",
+      "never type",
+      "DropGuard",
+      "min-publish-age",
+      "공급망 보안",
+      "Allocator API"
+    ],
+    "filename": "2026-11-25-rust-1-100-never-type-dropguard-cargo-cooldown.md",
+    "word_count": 3200,
+    "quality_score": "pass"
   }
 ]
