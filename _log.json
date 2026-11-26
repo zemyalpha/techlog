@@ -2345,5 +2345,22 @@
     "filename": "2026-11-25-rust-1-100-never-type-dropguard-cargo-cooldown.md",
     "word_count": 3200,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "토큰을 늘리지 않고 레이어를 세 번 돈다 — Inkling 2 Mini 루프 트랜스포머 해부와 맥 실행 가이드",
+    "lang": "ko",
+    "keywords": [
+      "루프 트랜스포머",
+      "Inkling 2 Mini",
+      "Thinking Machines Lab",
+      "로컬 LLM",
+      "MoE",
+      "NVFP4",
+      "Ollama"
+    ],
+    "filename": "2026-11-26-inkling-2-mini-looped-transformer-local-mac-guide.md",
+    "word_count": 4438,
+    "quality_score": "pass"
   }
 ]
