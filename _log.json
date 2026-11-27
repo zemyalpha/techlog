@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-11-27",
+    "title": "에이전트가 재시작 없이 추론 엔진을 다시 쓴다 — Together Compiler '지속 컴파일' 설계 해부",
+    "lang": "ko",
+    "keywords": [
+      "Together Compiler",
+      "TKCC",
+      "지속 컴파일",
+      "continual compilation",
+      "LLM 추론 최적화",
+      "persistent engine",
+      "InferenceX"
+    ],
+    "filename": "2026-11-27-together-compiler-continual-compilation-tkcc-agent-inference.md",
+    "word_count": 4300,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-10-16",
     "title": "임베디드 DB가 서버로 변신하고 CLI는 AI 에이전트를 위해 바뀐다 — DuckDB 2.0 Cyanoptera 출시 직전에 짚을 7가지",
     "lang": "ko",
