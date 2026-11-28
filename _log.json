@@ -2379,5 +2379,22 @@
     "filename": "2026-11-26-inkling-2-mini-looped-transformer-local-mac-guide.md",
     "word_count": 4438,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "PostgreSQL 19 업그레이드 가이드 — REPACK, ON CONFLICT DO SELECT, WAIT FOR LSN 실전 정리",
+    "lang": "ko",
+    "keywords": [
+      "PostgreSQL 19",
+      "REPACK",
+      "pg_plan_advice",
+      "ON CONFLICT DO SELECT",
+      "WAIT FOR LSN",
+      "pg_upgrade",
+      "SQL/PGQ"
+    ],
+    "filename": "2026-11-28-postgresql-19-repack-plan-advice-upgrade-guide.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
